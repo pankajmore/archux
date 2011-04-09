@@ -1,0 +1,8285 @@
+(dp1
+S'MS799'
+p2
+(dp3
+S'Instructor(s)'
+p4
+S'CONVENOR DPGC'
+p5
+sS'Schedule'
+p6
+S'LEC:'
+p7
+sS'Course No'
+p8
+S'MS799'
+p9
+sS'Title'
+p10
+S'PHD THESIS'
+p11
+ssS'SOC470'
+p12
+(dp13
+S'Instructor(s)'
+p14
+S'B K PATTNAIK'
+p15
+sS'Schedule'
+p16
+S'LEC: MWF 11:00-12:00 L12;TUT: T 11:00-12:00 L12;'
+p17
+sS'Course No'
+p18
+S'SOC470'
+p19
+sS'Title'
+p20
+S'SOCIOLOGY OF DEVELOPMENT'
+p21
+ssS'PHY407'
+p22
+(dp23
+S'Instructor(s)'
+p24
+S'D SAHDEV'
+p25
+sS'Schedule'
+p26
+S'LEC: TWTh 08:00-09:00 L9;TUT: F 08:00-09:00 L9;'
+p27
+sS'Course No'
+p28
+S'PHY407'
+p29
+sS'Title'
+p30
+S'SPECIAL & GENERAL RELATIVITY'
+p31
+ssS'AE610'
+p32
+(dp33
+S'Instructor(s)'
+p34
+S'BIRJ ESH PUNIYANI'
+p35
+sS'Schedule'
+p36
+S'LEC: MWTh 10:00-11:00 AE04;'
+p37
+sS'Course No'
+p38
+S'AE610'
+p39
+sS'Title'
+p40
+S'AERODYNAMICS-I'
+p41
+ssS'SOC473'
+p42
+(dp43
+S'Instructor(s)'
+p44
+S'MUNMUN JHA'
+p45
+sS'Schedule'
+p46
+S'LEC: MWF 11:00-12:00 L13;TUT: T 11:00-12:00 L13;'
+p47
+sS'Course No'
+p48
+S'SOC473'
+p49
+sS'Title'
+p50
+S'INDIAN SOCIETY AND CULTURE'
+p51
+ssS'AE617'
+p52
+(dp53
+S'Instructor(s)'
+p54
+S'SANJAY MITTAL'
+p55
+sS'Schedule'
+p56
+S'LEC: MWTh 11:00-12:00 AE01;'
+p57
+sS'Course No'
+p58
+S'AE617'
+p59
+sS'Title'
+p60
+S'BOUNDARY LAYER INSTABILITY AND TRANSITION'
+p61
+ssS'AE614'
+p62
+(dp63
+S'Instructor(s)'
+p64
+S'D DAS'
+p65
+sS'Schedule'
+p66
+S'LEC: MWTh 09:00-10:00 L15;'
+p67
+sS'Course No'
+p68
+S'AE614'
+p69
+sS'Title'
+p70
+S'VISCOUS FLOWS'
+p71
+ssS'MTH301'
+p72
+(dp73
+S'Instructor(s)'
+p74
+S'REKHA SANTHANAM'
+p75
+sS'Schedule'
+p76
+S'LEC: MTW 12:00-13:00 L8;TUT: Th 12:00-13:00 L8;'
+p77
+sS'Course No'
+p78
+S'MTH301'
+p79
+sS'Title'
+p80
+S'ANALYSIS - I'
+p81
+ssS'CHE633'
+p82
+(dp83
+S'Instructor(s)'
+p84
+S'G DEO'
+p85
+sS'Schedule'
+p86
+S'LEC: MTTh 15:00-16:00 FB470;'
+p87
+sS'Course No'
+p88
+S'CHE633'
+p89
+sS'Title'
+p90
+S'PRINCIPLES OF HETEROGENEOUS CATALYSIS'
+p91
+ssS'SOC479'
+p92
+(dp93
+S'Instructor(s)'
+p94
+S'A K SHARMA'
+p95
+sS'Schedule'
+p96
+S'LEC: MWF 11:00-12:00 L4;TUT: T 11:00-12:00 L4;'
+p97
+sS'Course No'
+p98
+S'SOC479'
+p99
+sS'Title'
+p100
+S'POPULATION, ECONOMY AND SOCIETY'
+p101
+ssS'PHY601'
+p102
+(dp103
+S'Instructor(s)'
+p104
+S'M K HARBOLA'
+p105
+sS'Schedule'
+p106
+S'LEC: M 08:00-09:00 FB482;TUT: TWTh 08:00-09:00 FB482;'
+p107
+sS'Course No'
+p108
+S'PHY601'
+p109
+sS'Title'
+p110
+S'REVIEW OF CLASSICAL PHYSICS I'
+p111
+ssS'CE361'
+p112
+(dp113
+S'Instructor(s)'
+p114
+S'S GUHA, VINOD TARE'
+p115
+sS'Schedule'
+p116
+S'LEC: M 15:00-16:00 L3;WF 14:00-15:00 L3;TUT: M 16:00-'
+p117
+sS'Course No'
+p118
+S'CE361'
+p119
+sS'Title'
+p120
+S'ENVIRONMENTAL QUALITY & POLLUTION'
+p121
+ssS'CHM503'
+p122
+(dp123
+S'Instructor(s)'
+p124
+S'V K YADAV'
+p125
+sS'Schedule'
+p126
+S'LEC:'
+p127
+sS'Course No'
+p128
+S'CHM503'
+p129
+sS'Title'
+p130
+S'ORGANIC PREPARATION LAB'
+p131
+ssS'SE394'
+p132
+(dp133
+S'Instructor(s)'
+p134
+S'B L SHARMA'
+p135
+sS'Schedule'
+p136
+S'LEC: TThF 08:00-09:00 T210;TUT: W 08:00-09:00 T210;'
+p137
+sS'Course No'
+p138
+S'SE394'
+p139
+sS'Title'
+p140
+S'INTRODUCTION TO CONTINUUM MECHANICS'
+p141
+ssS'CE451'
+p142
+(dp143
+S'Instructor(s)'
+p144
+S'P BOSE'
+p145
+sS'Schedule'
+p146
+S'LEC: MThF 16:00-17:00 L10;TUT: T 16:00-17:00 L10;'
+p147
+sS'Course No'
+p148
+S'CE451'
+p149
+sS'Title'
+p150
+S'SYSTEMS ANALYSIS IN CIVIL ENGG.'
+p151
+ssS'CHE602'
+p152
+(dp153
+S'Instructor(s)'
+p154
+S'P A APTE'
+p155
+sS'Schedule'
+p156
+S'LEC: MWF 11:00-12:00 FB470;'
+p157
+sS'Course No'
+p158
+S'CHE602'
+p159
+sS'Title'
+p160
+S'FUNDAMENTALS OF CHEMICAL ENGINEERING -II'
+p161
+ssS'BSE640'
+p162
+(dp163
+S'Instructor(s)'
+p164
+S'D S KATTI'
+p165
+sS'Schedule'
+p166
+S'LEC: MW 09:00-10:00 BSBE HALL;Th 12:00-13:00 BSBE'
+p167
+sS'Course No'
+p168
+S'BSE640'
+p169
+sS'Title'
+p170
+S'BIOMATERIALS'
+p171
+ssS'BSE641'
+p172
+(dp173
+S'Instructor(s)'
+p174
+S'CONVENER DPGC'
+p175
+sS'Schedule'
+p176
+S'LEC:'
+p177
+sS'Course No'
+p178
+S'BSE641'
+p179
+sS'Title'
+p180
+S'BIOLOGY LAB'
+p181
+ssS'CS699'
+p182
+(dp183
+S'Instructor(s)'
+p184
+S'CONVENOR DPGC'
+p185
+sS'Schedule'
+p186
+S'LEC:'
+p187
+sS'Course No'
+p188
+S'CS699'
+p189
+sS'Title'
+p190
+S'M TECH THESIS'
+p191
+ssS'ECO598'
+p192
+(dp193
+S'Instructor(s)'
+p194
+S'SOMESH K MATHUR'
+p195
+sS'Schedule'
+p196
+S'LEC:'
+p197
+sS'Course No'
+p198
+S'ECO598'
+p199
+sS'Title'
+p200
+S'PROJECT-I'
+p201
+ssS'CHE495'
+p202
+(dp203
+S'Instructor(s)'
+p204
+S'G DEO'
+p205
+sS'Schedule'
+p206
+S'LEC:'
+p207
+sS'Course No'
+p208
+S'CHE495'
+p209
+sS'Title'
+p210
+S'PROJECT-I'
+p211
+ssS'CHE494'
+p212
+(dp213
+S'Instructor(s)'
+p214
+S'G DEO'
+p215
+sS'Schedule'
+p216
+S'LEC:'
+p217
+sS'Course No'
+p218
+S'CHE494'
+p219
+sS'Title'
+p220
+S'SUMMER IN-PLANT TRAINING'
+p221
+ssS'CHE492'
+p222
+(dp223
+S'Instructor(s)'
+p224
+S'S PANDA, D KUNZRU'
+p225
+sS'Schedule'
+p226
+S'LEC:'
+p227
+sS'Course No'
+p228
+S'CHE492'
+p229
+sS'Title'
+p230
+S'UNIT OPERATION LAB II'
+p231
+ssS'MBA697'
+p232
+(dp233
+S'Instructor(s)'
+p234
+S'CONVENER DPGC'
+p235
+sS'Schedule'
+p236
+S'LEC:'
+p237
+sS'Course No'
+p238
+S'MBA697'
+p239
+sS'Title'
+p240
+S'SUMMER PROJECT'
+p241
+ssS'MBA699'
+p242
+(dp243
+S'Instructor(s)'
+p244
+S'CONVENER DPGC'
+p245
+sS'Schedule'
+p246
+S'LEC:'
+p247
+sS'Course No'
+p248
+S'MBA699'
+p249
+sS'Title'
+p250
+S'PROJECT I'
+p251
+ssS'MBA698'
+p252
+(dp253
+S'Instructor(s)'
+p254
+S'CONVENER DPGC'
+p255
+sS'Schedule'
+p256
+S'LEC:'
+p257
+sS'Course No'
+p258
+S'MBA698'
+p259
+sS'Title'
+p260
+S'MANAGEMENT SEMINARS'
+p261
+ssS'MTH657'
+p262
+(dp263
+S'Instructor(s)'
+p264
+S'A K LAL'
+p265
+sS'Schedule'
+p266
+S'LEC: TWF 10:00-11:00 T201;'
+p267
+sS'Course No'
+p268
+S'MTH657'
+p269
+sS'Title'
+p270
+S'GRAPH THEORY'
+p271
+ssS'ME799'
+p272
+(dp273
+S'Instructor(s)'
+p274
+S'CONVENOR DPGC'
+p275
+sS'Schedule'
+p276
+S'LEC:'
+p277
+sS'Course No'
+p278
+S'ME799'
+p279
+sS'Title'
+p280
+S'PHD THESIS'
+p281
+ssS'ECO341'
+p282
+(dp283
+S'Instructor(s)'
+p284
+S'P M PRASAD'
+p285
+sS'Schedule'
+p286
+S'LEC: MTWTh 10:00-11:00 FB656;'
+p287
+sS'Course No'
+p288
+S'ECO341'
+p289
+sS'Title'
+p290
+S'ENVIRONMENTAL ECONOMICS AND POLICY'
+p291
+ssS'BSE391'
+p292
+(dp293
+S'Instructor(s)'
+p294
+S'A K THAKUR, K SUBRAMANIAM'
+p295
+sS'Schedule'
+p296
+S'LEC:'
+p297
+sS'Course No'
+p298
+S'BSE391'
+p299
+sS'Title'
+p300
+S'BSBE LAB-II BIOCHEMISTRY & BIOCHEM. ENGG.'
+p301
+ssS'CE689N'
+p302
+(dp303
+S'Instructor(s)'
+p304
+S'A DAS'
+p305
+sS'Schedule'
+p306
+S'LEC: M 11:00-12:00 T212;TTh 11:00-12:00 T205;'
+p307
+sS'Course No'
+p308
+S'CE689N'
+p309
+sS'Title'
+p310
+S'CHARACTERIZATION OF PAVEMENT MATERIALS AND ANALYSIS'
+p311
+ssS'CS350'
+p312
+(dp313
+S'Instructor(s)'
+p314
+S'S NANDAKUMAR'
+p315
+sS'Schedule'
+p316
+S'LEC: T 16:00-17:00 CS101;WF 15:00-16:00 CS101;'
+p317
+sS'Course No'
+p318
+S'CS350'
+p319
+sS'Title'
+p320
+S'PRINCIPLES OF PROGRAMMING LANGAUGES'
+p321
+ssS'CE623N'
+p322
+(dp323
+S'Instructor(s)'
+p324
+S'SAMIT RAY CHAUDHURI'
+p325
+sS'Schedule'
+p326
+S'LEC: TF 15:00-16:00 T205;'
+p327
+sS'Course No'
+p328
+S'CE623N'
+p329
+sS'Title'
+p330
+S'EXPERIMENTAL METHODS IN STRUCTURAL ENGINEERNIG'
+p331
+ssS'CHE644'
+p332
+(dp333
+S'Instructor(s)'
+p334
+S'A KHANNA'
+p335
+sS'Schedule'
+p336
+S'LEC: MWF 14:00-15:00 FB470;'
+p337
+sS'Course No'
+p338
+S'CHE644'
+p339
+sS'Title'
+p340
+S'CFD OF MULTIPHASE REACTORS'
+p341
+ssS'CHE645'
+p342
+(dp343
+S'Instructor(s)'
+p344
+S'A CHATTERJEE'
+p345
+sS'Schedule'
+p346
+S'LEC: WF 15:30-17:00 T211;'
+p347
+sS'Course No'
+p348
+S'CHE645'
+p349
+sS'Title'
+p350
+S'MODELLING AND SIMULATION IN CHEMICAL ENGINEERING'
+p351
+ssS'CHE642'
+p352
+(dp353
+S'Instructor(s)'
+p354
+S'S K GUPTA'
+p355
+sS'Schedule'
+p356
+S'LEC: MWF 12:00-13:00 FB470;'
+p357
+sS'Course No'
+p358
+S'CHE642'
+p359
+sS'Title'
+p360
+S'NUMERICAL METHODS IN CHEMICAL ENGINEERING'
+p361
+ssS'ECO734'
+p362
+(dp363
+S'Instructor(s)'
+p364
+S'P KULSHRESHTHA'
+p365
+sS'Schedule'
+p366
+S'LEC: MTWTh 08:00-09:00 FB656;'
+p367
+sS'Course No'
+p368
+S'ECO734'
+p369
+sS'Title'
+p370
+S'INDUSTRIAL ORGANISATION AND POLICY'
+p371
+ssS'ECO736'
+p372
+(dp373
+S'Instructor(s)'
+p374
+S'S K MATHUR'
+p375
+sS'Schedule'
+p376
+S'LEC:'
+p377
+sS'Course No'
+p378
+S'ECO736'
+p379
+sS'Title'
+p380
+S'APPLIED ECONOMETRICS'
+p381
+ssS'AE321'
+p382
+(dp383
+S'Instructor(s)'
+p384
+S'A K GHOSH'
+p385
+sS'Schedule'
+p386
+S'LEC: MT 08:00-09:00 L15;TUT: Th 08:00-09:00 L15;'
+p387
+sS'Course No'
+p388
+S'AE321'
+p389
+sS'Title'
+p390
+S'FLIGHT MECHANICS - I'
+p391
+ssS'ECO738'
+p392
+(dp393
+S'Instructor(s)'
+p394
+S'K K SAXENA'
+p395
+sS'Schedule'
+p396
+S'LEC:'
+p397
+sS'Course No'
+p398
+S'ECO738'
+p399
+sS'Title'
+p400
+S'INTER-INDUSTRY ECONOMICS'
+p401
+ssS'SOC799'
+p402
+(dp403
+S'Instructor(s)'
+p404
+S'CONVENOR DPGC'
+p405
+sS'Schedule'
+p406
+S'LEC:'
+p407
+sS'Course No'
+p408
+S'SOC799'
+p409
+sS'Title'
+p410
+S'PHD THESIS'
+p411
+ssS'CHM651'
+p412
+(dp413
+S'Instructor(s)'
+p414
+S'P K BHARADWAJ'
+p415
+sS'Schedule'
+p416
+S'LEC: MTTh 14:00-15:00 FB426;'
+p417
+sS'Course No'
+p418
+S'CHM651'
+p419
+sS'Title'
+p420
+S'CRYSTAL AND MOLECULAR STRUCTURE DETERMINATION'
+p421
+ssS'ECO321'
+p422
+(dp423
+S'Instructor(s)'
+p424
+S'P KULSHRESHTHA'
+p425
+sS'Schedule'
+p426
+S'LEC: MTWTh 09:00-10:00 FB656;'
+p427
+sS'Course No'
+p428
+S'ECO321'
+p429
+sS'Title'
+p430
+S'INDUSTRIAL ECONOMICS'
+p431
+ssS'PHY552'
+p432
+(dp433
+S'Instructor(s)'
+p434
+S'S K RAMAKRISHANA'
+p435
+sS'Schedule'
+p436
+S'LEC: MWTh 08:00-09:00 L12;TUT: F 10:00-11:00 L12;'
+p437
+sS'Course No'
+p438
+S'PHY552'
+p439
+sS'Title'
+p440
+S'CLASSICAL ELECTRODYNAMICS I'
+p441
+ssS'ME663'
+p442
+(dp443
+S'Instructor(s)'
+p444
+S'P M DIXIT'
+p445
+sS'Schedule'
+p446
+S'LEC: TWF 10:00-11:00 T210;'
+p447
+sS'Course No'
+p448
+S'ME663'
+p449
+sS'Title'
+p450
+S'METAL FORMING'
+p451
+ssS'ME662'
+p452
+(dp453
+S'Instructor(s)'
+p454
+S'V K JAIN'
+p455
+sS'Schedule'
+p456
+S'LEC: M 08:00-09:00 FB370;TTh 09:00-10:00 FB370;'
+p457
+sS'Course No'
+p458
+S'ME662'
+p459
+sS'Title'
+p460
+S'MACHINING SCIENCE II'
+p461
+ssS'ME661'
+p462
+(dp463
+S'Instructor(s)'
+p464
+S'S K CHOUDHURY'
+p465
+sS'Schedule'
+p466
+S'LEC: MW 09:00-10:00 T210;Th 10:00-11:00 T210;'
+p467
+sS'Course No'
+p468
+S'ME661'
+p469
+sS'Title'
+p470
+S'MACHINING SCIENCE I'
+p471
+ssS'MBA623'
+p472
+(dp473
+S'Instructor(s)'
+p474
+S'A P SINHA'
+p475
+sS'Schedule'
+p476
+S'LEC: TTh 10:00-11:30 NB332;'
+p477
+sS'Course No'
+p478
+S'MBA623'
+p479
+sS'Title'
+p480
+S'STRATEGIC MANAGEMENT'
+p481
+ssS'BSE799'
+p482
+(dp483
+S'Instructor(s)'
+p484
+S'CONVENOR DPGC'
+p485
+sS'Schedule'
+p486
+S'LEC:'
+p487
+sS'Course No'
+p488
+S'BSE799'
+p489
+sS'Title'
+p490
+S'PHD THESIS'
+p491
+ssS'SOC723'
+p492
+(dp493
+S'Instructor(s)'
+p494
+S'A K SHARMA'
+p495
+sS'Schedule'
+p496
+S'LEC:'
+p497
+sS'Course No'
+p498
+S'SOC723'
+p499
+sS'Title'
+p500
+S'INTRODUCTION TO STATISTICAL INFERENCE'
+p501
+ssS'ENG701'
+p502
+(dp503
+S'Instructor(s)'
+p504
+S'A M RAINA'
+p505
+sS'Schedule'
+p506
+S'LEC:'
+p507
+sS'Course No'
+p508
+S'ENG701'
+p509
+sS'Title'
+p510
+S'FUNDAMENTALS OF MODERN LINGUISTICS'
+p511
+ssS'PHY563'
+p512
+(dp513
+S'Instructor(s)'
+p514
+S'S A RAMAKRISHNA'
+p515
+sS'Schedule'
+p516
+S'LEC:'
+p517
+sS'Course No'
+p518
+S'PHY563'
+p519
+sS'Title'
+p520
+S'EXPERIMENTAL PROJECT I'
+p521
+ssS'EE650'
+p522
+(dp523
+S'Instructor(s)'
+p524
+S'R POTLURI'
+p525
+sS'Schedule'
+p526
+S'LEC: MW 17:00-18:30 ACES213;'
+p527
+sS'Course No'
+p528
+S'EE650'
+p529
+sS'Title'
+p530
+S'BASICS OF MODERN CONTROL SYSTEMS'
+p531
+ssS'EE658'
+p532
+(dp533
+S'Instructor(s)'
+p534
+S'N VERMA'
+p535
+sS'Schedule'
+p536
+S'LEC: MF 09:00-10:00 REQ;Th 11:00-12:00 REQ;'
+p537
+sS'Course No'
+p538
+S'EE658'
+p539
+sS'Title'
+p540
+S'FUZZY SET, LOGIC & SYSTEMS & APPLICATIONS'
+p541
+ssS'EE491'
+p542
+(dp543
+S'Instructor(s)'
+p544
+S'CONVENOR DUGC'
+p545
+sS'Schedule'
+p546
+S'LEC:'
+p547
+sS'Course No'
+p548
+S'EE491'
+p549
+sS'Title'
+p550
+S'PROJECT I'
+p551
+ssS'MSE650'
+p552
+(dp553
+S'Instructor(s)'
+p554
+S'S SANGAL'
+p555
+sS'Schedule'
+p556
+S'LEC: MWF 08:00-09:00 WL225;'
+p557
+sS'Course No'
+p558
+S'MSE650'
+p559
+sS'Title'
+p560
+S'FUNDAMENTALS OF STEREOLOGY & APPLICATIONS TO'
+p561
+ssS'PHY603'
+p562
+(dp563
+S'Instructor(s)'
+p564
+S'K P RAJEEV'
+p565
+sS'Schedule'
+p566
+S'LEC: M 09:00-10:00 FB482;TUT: TWTh 09:00-10:00 FB482;'
+p567
+sS'Course No'
+p568
+S'PHY603'
+p569
+sS'Title'
+p570
+S'REVIEW OF CLASSICAL PHYSICS II'
+p571
+ssS'CE321'
+p572
+(dp573
+S'Instructor(s)'
+p574
+S'S K CHAKRABARTI'
+p575
+sS'Schedule'
+p576
+S'LEC: MTTh 09:00-10:00 L10;TUT: W 09:00-11:00 L10;F'
+p577
+sS'Course No'
+p578
+S'CE321'
+p579
+sS'Title'
+p580
+S'DESIGN OF STEEL STRUCTURES'
+p581
+ssS'ME471N'
+p582
+(dp583
+S'Instructor(s)'
+p584
+S'S SARKAR'
+p585
+sS'Schedule'
+p586
+S'LEC:'
+p587
+sS'Course No'
+p588
+S'ME471N'
+p589
+sS'Title'
+p590
+S'MECHANICAL ENGINEERING LAB'
+p591
+ssS'CE491'
+p592
+(dp593
+S'Instructor(s)'
+p594
+S'CONVENOR DUGC'
+p595
+sS'Schedule'
+p596
+S'LEC:'
+p597
+sS'Course No'
+p598
+S'CE491'
+p599
+sS'Title'
+p600
+S'PROJECT-I'
+p601
+ssS'CE799'
+p602
+(dp603
+S'Instructor(s)'
+p604
+S'CONVENOR DPGC'
+p605
+sS'Schedule'
+p606
+S'LEC:'
+p607
+sS'Course No'
+p608
+S'CE799'
+p609
+sS'Title'
+p610
+S'PHD THESIS'
+p611
+ssS'CHE699'
+p612
+(dp613
+S'Instructor(s)'
+p614
+S'CONVENOR DPGC'
+p615
+sS'Schedule'
+p616
+S'LEC:'
+p617
+sS'Course No'
+p618
+S'CHE699'
+p619
+sS'Title'
+p620
+S'M TECH THESIS'
+p621
+ssS'CS799'
+p622
+(dp623
+S'Instructor(s)'
+p624
+S'CONVENOR DPGC'
+p625
+sS'Schedule'
+p626
+S'LEC:'
+p627
+sS'Course No'
+p628
+S'CS799'
+p629
+sS'Title'
+p630
+S'PHD THESIS'
+p631
+ssS'NT611'
+p632
+(dp633
+S'Instructor(s)'
+p634
+S'P MUNSHI'
+p635
+sS'Schedule'
+p636
+S'LEC: MW 12:00-13:30 REQ;'
+p637
+sS'Course No'
+p638
+S'NT611'
+p639
+sS'Title'
+p640
+S'NUCLEAR POWER ENGINEERING I'
+p641
+ssS'PHY571'
+p642
+(dp643
+S'Instructor(s)'
+p644
+S'H WANARE'
+p645
+sS'Schedule'
+p646
+S'LEC:'
+p647
+sS'Course No'
+p648
+S'PHY571'
+p649
+sS'Title'
+p650
+S'THEORETICAL PROJECT II'
+p651
+ssS'MME470'
+p652
+(dp653
+S'Instructor(s)'
+p654
+S'B BASU'
+p655
+sS'Schedule'
+p656
+S'LEC: T 09:00-10:00 L11;WF 08:00-09:00 L11;'
+p657
+sS'Course No'
+p658
+S'MME470'
+p659
+sS'Title'
+p660
+S'MANUFACTURING PROCESS'
+p661
+ssS'CS641'
+p662
+(dp663
+S'Instructor(s)'
+p664
+S'MANINDRA AGRAWAL'
+p665
+sS'Schedule'
+p666
+S'LEC: MWTh 09:00-10:00 CS102;'
+p667
+sS'Course No'
+p668
+S'CS641'
+p669
+sS'Title'
+p670
+S'MODERN CRYPTOLOGY'
+p671
+ssS'CHE601'
+p672
+(dp673
+S'Instructor(s)'
+p674
+S'Y M JOSHI'
+p675
+sS'Schedule'
+p676
+S'LEC: MW 08:00-09:30 FB470;'
+p677
+sS'Course No'
+p678
+S'CHE601'
+p679
+sS'Title'
+p680
+S'FUNDAMENTALS OF CHEMICAL ENGINEERING -I'
+p681
+ssS'CS645'
+p682
+(dp683
+S'Instructor(s)'
+p684
+S'SANJEEV SAXENA'
+p685
+sS'Schedule'
+p686
+S'LEC: WF 12:00-13:30 CS102;'
+p687
+sS'Course No'
+p688
+S'CS645'
+p689
+sS'Title'
+p690
+S'TOPICS IN DESIGN AND ANALYSIS OF ALGORITHMS'
+p691
+ssS'CS648'
+p692
+(dp693
+S'Instructor(s)'
+p694
+S'S BASWANA'
+p695
+sS'Schedule'
+p696
+S'LEC: MWTh 09:00-10:00 CS101;'
+p697
+sS'Course No'
+p698
+S'CS648'
+p699
+sS'Title'
+p700
+S'RANDOMIZED ALGORITHMS'
+p701
+ssS'CE423'
+p702
+(dp703
+S'Instructor(s)'
+p704
+S'VINAY KR GUPTA'
+p705
+sS'Schedule'
+p706
+S'LEC: TTh 15:00-16:00 REQ;W 16:00-17:00 REQ;'
+p707
+sS'Course No'
+p708
+S'CE423'
+p709
+sS'Title'
+p710
+S'INTRODUCTION TO EARTHQUATE ENGINEERING'
+p711
+ssS'ECO422'
+p712
+(dp713
+S'Instructor(s)'
+p714
+S'P M PRASAD, P KULSHRESHTHA'
+p715
+sS'Schedule'
+p716
+S'LEC: MTWTh 16:00-17:00 FB656;'
+p717
+sS'Course No'
+p718
+S'ECO422'
+p719
+sS'Title'
+p720
+S'ECONOMICS OF REGULATION AND IPR'
+p721
+ssS'PHY565'
+p722
+(dp723
+S'Instructor(s)'
+p724
+S'S A RAMAKRISHNA'
+p725
+sS'Schedule'
+p726
+S'LEC:'
+p727
+sS'Course No'
+p728
+S'PHY565'
+p729
+sS'Title'
+p730
+S'EXPERIMENTAL PROJECT II'
+p731
+ssS'PHI782'
+p732
+(dp733
+S'Instructor(s)'
+p734
+S'P BAGAD'
+p735
+sS'Schedule'
+p736
+S'LEC:'
+p737
+sS'Course No'
+p738
+S'PHI782'
+p739
+sS'Title'
+p740
+S'EXISTENTIALISM'
+p741
+ssS'CS727'
+p742
+(dp743
+S'Instructor(s)'
+p744
+S'T V PRABHAKAR'
+p745
+sS'Schedule'
+p746
+S'LEC: M 10:30-12:00 CS102;T 12:00-13:30 CS101;'
+p747
+sS'Course No'
+p748
+S'CS727'
+p749
+sS'Title'
+p750
+S'TOPICS IN INTERNET TECHNOLOGIES'
+p751
+ssS'PHI784'
+p752
+(dp753
+S'Instructor(s)'
+p754
+S'NIRMALYA GUHA'
+p755
+sS'Schedule'
+p756
+S'LEC:'
+p757
+sS'Course No'
+p758
+S'PHI784'
+p759
+sS'Title'
+p760
+S'FORMAL SEMANTICS'
+p761
+ssS'AE361'
+p762
+(dp763
+S'Instructor(s)'
+p764
+S'S KAMLE'
+p765
+sS'Schedule'
+p766
+S'LEC:'
+p767
+sS'Course No'
+p768
+S'AE361'
+p769
+sS'Title'
+p770
+S'AEROMODELLING DESIGN & FABRICATION'
+p771
+ssS'PHY101N'
+p772
+(dp773
+S'Instructor(s)'
+p774
+S'ASIMA PRADHAN'
+p775
+sS'Schedule'
+p776
+S'LEC:'
+p777
+sS'Course No'
+p778
+S'PHY101N'
+p779
+sS'Title'
+p780
+S'PHYSICS LAB'
+p781
+ssS'BSE613'
+p782
+(dp783
+S'Instructor(s)'
+p784
+S'A BANDYOPADHYAY, K SUBRAMANIAM'
+p785
+sS'Schedule'
+p786
+S'LEC: TTh 12:00-13:30 BSBE LAB;'
+p787
+sS'Course No'
+p788
+S'BSE613'
+p789
+sS'Title'
+p790
+S'CELL & MOLECULAR BIOLOGY'
+p791
+ssS'PHY590'
+p792
+(dp793
+S'Instructor(s)'
+p794
+S'CONVENOR DUGC'
+p795
+sS'Schedule'
+p796
+S'LEC:'
+p797
+sS'Course No'
+p798
+S'PHY590'
+p799
+sS'Title'
+p800
+S'SPECIAL TOPICS IN PHYSICS'
+p801
+ssS'CHM611'
+p802
+(dp803
+S'Instructor(s)'
+p804
+S'J N MOORTHY'
+p805
+sS'Schedule'
+p806
+S'LEC: TThF 11:00-12:00 FB426;'
+p807
+sS'Course No'
+p808
+S'CHM611'
+p809
+sS'Title'
+p810
+S'PHYSICAL ORGANIC CHEMISTRY'
+p811
+ssS'MS603'
+p812
+(dp813
+S'Instructor(s)'
+p814
+S'KAMAL K KAR, RAJESH KITEY'
+p815
+sS'Schedule'
+p816
+S'LEC: MWF 10:00-11:00 REQ;'
+p817
+sS'Course No'
+p818
+S'MS603'
+p819
+sS'Title'
+p820
+S'MECHANICAL PROPERTIES AND RELATED PHENOMENA'
+p821
+ssS'MS602'
+p822
+(dp823
+S'Instructor(s)'
+p824
+S'RAJEEV GUPTA, K SHAHI'
+p825
+sS'Schedule'
+p826
+S'LEC: MWF 11:00-12:00 REQ;'
+p827
+sS'Course No'
+p828
+S'MS602'
+p829
+sS'Title'
+p830
+S'ELECTRICAL AND DIELECTRIC MATERIALS'
+p831
+ssS'MS601'
+p832
+(dp833
+S'Instructor(s)'
+p834
+S'JITENDRA KUMAR'
+p835
+sS'Schedule'
+p836
+S'LEC: MWF 09:00-10:00 REQ;'
+p837
+sS'Course No'
+p838
+S'MS601'
+p839
+sS'Title'
+p840
+S'STRUCTURAL & MAGNETIC PROPERTIES OF MATERIALS'
+p841
+ssS'BSE612'
+p842
+(dp843
+S'Instructor(s)'
+p844
+S'R SANKARARAMAKRISHNAN, B PRAKASH'
+p845
+sS'Schedule'
+p846
+S'LEC: T 14:00-15:30 BSBE HALL;F 12:00-13:30 BSBE HALL;'
+p847
+sS'Course No'
+p848
+S'BSE612'
+p849
+sS'Title'
+p850
+S'MATHEMATICS & STATISTICS FOR BIOLOGISTS'
+p851
+ssS'SOC720'
+p852
+(dp853
+S'Instructor(s)'
+p854
+S'B K PATTNAIK'
+p855
+sS'Schedule'
+p856
+S'LEC:'
+p857
+sS'Course No'
+p858
+S'SOC720'
+p859
+sS'Title'
+p860
+S'RESEARCH METHODS'
+p861
+ssS'TA201N'
+p862
+(dp863
+S'Instructor(s)'
+p864
+S'KALLOL MANDOL'
+p865
+sS'Schedule'
+p866
+S'LEC: WF 10:00-11:00 L7;'
+p867
+sS'Course No'
+p868
+S'TA201N'
+p869
+sS'Title'
+p870
+S'INTRODUCTION TO MANUFACTURING PROCESSES'
+p871
+ssS'BSE341'
+p872
+(dp873
+S'Instructor(s)'
+p874
+S'A K THAKUR'
+p875
+sS'Schedule'
+p876
+S'LEC: TThF 09:00-10:00 BSBE HALL;'
+p877
+sS'Course No'
+p878
+S'BSE341'
+p879
+sS'Title'
+p880
+S'BIOCHEMICAL ENGINEERING'
+p881
+ssS'ESO219'
+p882
+(dp883
+S'Instructor(s)'
+p884
+S'PRADIP SINHA'
+p885
+sS'Schedule'
+p886
+S'LEC: MWF 09:00-10:00 L15;TUT: Th 09:00-10:00 T201-'
+p887
+sS'Course No'
+p888
+S'ESO219'
+p889
+sS'Title'
+p890
+S'INTRODUCTION TO BIOLOGY'
+p891
+ssS'ESO214'
+p892
+(dp893
+S'Instructor(s)'
+p894
+S'GOUTHAMA'
+p895
+sS'Schedule'
+p896
+S'LEC: MWF 11:00-12:00 L5;TUT: TTh 11:00-12:00 T210-'
+p897
+sS'Course No'
+p898
+S'ESO214'
+p899
+sS'Title'
+p900
+S'NATURE AND PROPERTIES OF MATERIALS'
+p901
+ssS'CHM616'
+p902
+(dp903
+S'Instructor(s)'
+p904
+S'J K BERA'
+p905
+sS'Schedule'
+p906
+S'LEC: MTTh 15:00-16:00 FB426;'
+p907
+sS'Course No'
+p908
+S'CHM616'
+p909
+sS'Title'
+p910
+S'CHEMISTRY OF ORGANOMETALLIC COMPOUNDS'
+p911
+ssS'ESO212'
+p912
+(dp913
+S'Instructor(s)'
+p914
+S'V SHANKAR'
+p915
+sS'Schedule'
+p916
+S'LEC: MWF 11:00-12:00 L16;TUT: TTh 11:00-12:00 T201-'
+p917
+sS'Course No'
+p918
+S'ESO212'
+p919
+sS'Title'
+p920
+S'FLUID MECHANICS AND RATE PROCESSES'
+p921
+ssS'ESO210'
+p922
+(dp923
+S'Instructor(s)'
+p924
+S'S CHAKRABARTI'
+p925
+sS'Schedule'
+p926
+S'LEC: MWF 11:00-12:00 L2;TUT: T 11:00-12:00 T101-103;'
+p927
+sS'Course No'
+p928
+S'ESO210'
+p929
+sS'Title'
+p930
+S'INTRODUCTION TO ELECTRICAL ENGINEERING'
+p931
+ssS'ESO211'
+p932
+(dp933
+S'Instructor(s)'
+p934
+S'S K MEHTA'
+p935
+sS'Schedule'
+p936
+S'LEC: MWF 11:00-12:00 L1;'
+p937
+sS'Course No'
+p938
+S'ESO211'
+p939
+sS'Title'
+p940
+S'DATA STRUCTURES AND ALGORITHMS'
+p941
+ssS'CHE331'
+p942
+(dp943
+S'Instructor(s)'
+p944
+S'S GARG'
+p945
+sS'Schedule'
+p946
+S'LEC: MF 15:00-16:00 L13;W 16:00-17:00 L13;TUT: F 16:'
+p947
+sS'Course No'
+p948
+S'CHE331'
+p949
+sS'Title'
+p950
+S'CHEMICAL REACTION ENGINEERING'
+p951
+ssS'CE683'
+p952
+(dp953
+S'Instructor(s)'
+p954
+S'VINOD VASUDEVAN'
+p955
+sS'Schedule'
+p956
+S'LEC: T 09:00-10:00 T205;WF 11:00-12:00 T205;'
+p957
+sS'Course No'
+p958
+S'CE683'
+p959
+sS'Title'
+p960
+S'TRAFFIC ENGINEERING'
+p961
+ssS'EE799'
+p962
+(dp963
+S'Instructor(s)'
+p964
+S'CONVENOR DPGC'
+p965
+sS'Schedule'
+p966
+S'LEC:'
+p967
+sS'Course No'
+p968
+S'EE799'
+p969
+sS'Title'
+p970
+S'PHD THESIS'
+p971
+ssS'IME799'
+p972
+(dp973
+S'Instructor(s)'
+p974
+S'CONVENOR DPGC'
+p975
+sS'Schedule'
+p976
+S'LEC:'
+p977
+sS'Course No'
+p978
+S'IME799'
+p979
+sS'Title'
+p980
+S'PHD THESIS'
+p981
+ssS'PHI455'
+p982
+(dp983
+S'Instructor(s)'
+p984
+S'A V R SHARMA'
+p985
+sS'Schedule'
+p986
+S'LEC: MWF 11:00-12:00 L10;TUT: T 11:00-12:00 L10;'
+p987
+sS'Course No'
+p988
+S'PHI455'
+p989
+sS'Title'
+p990
+S'PHILOSOPHICAL LOGIC'
+p991
+ssS'PHI450'
+p992
+(dp993
+S'Instructor(s)'
+p994
+S'PRASHANT BAGAD'
+p995
+sS'Schedule'
+p996
+S'LEC: MWF 11:00-12:00 WL225;TUT: T 11:00-12:00 WL225;'
+p997
+sS'Course No'
+p998
+S'PHI450'
+p999
+sS'Title'
+p1000
+S'PHILOSOPHICAL AESTHETICS'
+p1001
+ssS'MSE613'
+p1002
+(dp1003
+S'Instructor(s)'
+p1004
+S'R SHEKHAR'
+p1005
+sS'Schedule'
+p1006
+S'LEC: MWF 11:00-12:00 L11;'
+p1007
+sS'Course No'
+p1008
+S'MSE613'
+p1009
+sS'Title'
+p1010
+S'ELECTROCHEMICAL TECHNOLOGY IN MATERIALS PROCESSING'
+p1011
+ssS'MS698'
+p1012
+(dp1013
+S'Instructor(s)'
+p1014
+S'JITENDRA KUMAR'
+p1015
+sS'Schedule'
+p1016
+S'LEC: T 14:00-15:00 ACMS;'
+p1017
+sS'Course No'
+p1018
+S'MS698'
+p1019
+sS'Title'
+p1020
+S'GRADUATE SEMINAR'
+p1021
+ssS'MS699'
+p1022
+(dp1023
+S'Instructor(s)'
+p1024
+S'CONVENOR DPGC'
+p1025
+sS'Schedule'
+p1026
+S'LEC:'
+p1027
+sS'Course No'
+p1028
+S'MS699'
+p1029
+sS'Title'
+p1030
+S'M TECH THESIS'
+p1031
+ssS'PHY441'
+p1032
+(dp1033
+S'Instructor(s)'
+p1034
+S'KRISHNACHARYA'
+p1035
+sS'Schedule'
+p1036
+S'LEC: MT 11:00-12:00 FB482;TUT: Th 11:00-12:00 FB482;'
+p1037
+sS'Course No'
+p1038
+S'PHY441'
+p1039
+sS'Title'
+p1040
+S'ELECTRONICS'
+p1041
+ssS'ME639'
+p1042
+(dp1043
+S'Instructor(s)'
+p1044
+S'S KHANDEKAR'
+p1045
+sS'Schedule'
+p1046
+S'LEC: MWF 11:00-12:00 NET;'
+p1047
+sS'Course No'
+p1048
+S'ME639'
+p1049
+sS'Title'
+p1050
+S'LIQUID VAPOUR PHASE CHANGE PHENOMENA'
+p1051
+ssS'MBA679'
+p1052
+(dp1053
+S'Instructor(s)'
+p1054
+S'B V PHANI'
+p1055
+sS'Schedule'
+p1056
+S'LEC: W 14:00-15:30 NB332;F 08:30-10:00 NB332;'
+p1057
+sS'Course No'
+p1058
+S'MBA679'
+p1059
+sS'Title'
+p1060
+S'COMMERCIAL BANKING, RISK MODELING AND RISK MANAGEMENT'
+p1061
+ssS'EE630'
+p1062
+(dp1063
+S'Instructor(s)'
+p1064
+S'S N SINGH'
+p1065
+sS'Schedule'
+p1066
+S'LEC: WTh 09:30-11:00 ACES213;'
+p1067
+sS'Course No'
+p1068
+S'EE630'
+p1069
+sS'Title'
+p1070
+S'SIMULATON OF MODERN POWER SYSTEMS'
+p1071
+ssS'MBA675'
+p1072
+(dp1073
+S'Instructor(s)'
+p1074
+S'ANOOP SINGH'
+p1075
+sS'Schedule'
+p1076
+S'LEC: MTh 15:30-17:00 NB332;'
+p1077
+sS'Course No'
+p1078
+S'MBA675'
+p1079
+sS'Title'
+p1080
+S'INFRASTRUCTURE REGULATION, POLICY & FINANCE'
+p1081
+ssS'ME630'
+p1082
+(dp1083
+S'Instructor(s)'
+p1084
+S'A K SAHA'
+p1085
+sS'Schedule'
+p1086
+S'LEC: MW 09:00-10:00 FB370;Th 10:00-11:00 FB370;'
+p1087
+sS'Course No'
+p1088
+S'ME630'
+p1089
+sS'Title'
+p1090
+S'NUMERICAL FLUID FLOW AND HEAT TRANSFER'
+p1091
+ssS'ME631'
+p1092
+(dp1093
+S'Instructor(s)'
+p1094
+S'B SREENIVASAN'
+p1095
+sS'Schedule'
+p1096
+S'LEC: MThF 14:00-15:00 T210;'
+p1097
+sS'Course No'
+p1098
+S'ME631'
+p1099
+sS'Title'
+p1100
+S'VISCOUS FLOW THEORY'
+p1101
+ssS'CS698X'
+p1102
+(dp1103
+S'Instructor(s)'
+p1104
+S'P GUPTA'
+p1105
+sS'Schedule'
+p1106
+S'LEC: T 10:00-11:00 CS103;WF 10:00-11:00 CS102;'
+p1107
+sS'Course No'
+p1108
+S'CS698X'
+p1109
+sS'Title'
+p1110
+S'MULTIMODAL BIOMETRICS'
+p1111
+ssS'ME321'
+p1112
+(dp1113
+S'Instructor(s)'
+p1114
+S'A GUPTA'
+p1115
+sS'Schedule'
+p1116
+S'LEC: TWF 12:00-13:00 REQ;'
+p1117
+sS'Course No'
+p1118
+S'ME321'
+p1119
+sS'Title'
+p1120
+S'ADVANCED MECHANICS OF SOLIDS'
+p1121
+ssS'ECO101'
+p1122
+(dp1123
+S'Instructor(s)'
+p1124
+S'SARANI SAHA'
+p1125
+sS'Schedule'
+p1126
+S'LEC: TWF 12:00-13:00 L3;TUT: Th 12:00-13:00 L3;'
+p1127
+sS'Course No'
+p1128
+S'ECO101'
+p1129
+sS'Title'
+p1130
+S'INTRODUCTION TO ECONOMICS'
+p1131
+ssS'CHE801'
+p1132
+(dp1133
+S'Instructor(s)'
+p1134
+S'A KHANNA'
+p1135
+sS'Schedule'
+p1136
+S'LEC: T 14:00-15:00 L1;'
+p1137
+sS'Course No'
+p1138
+S'CHE801'
+p1139
+sS'Title'
+p1140
+S'PHD SEMINAR'
+p1141
+ssS'CE610'
+p1142
+(dp1143
+S'Instructor(s)'
+p1144
+S'ASHU JAIN'
+p1145
+sS'Schedule'
+p1146
+S'LEC: TThF 09:00-10:00 T212;'
+p1147
+sS'Course No'
+p1148
+S'CE610'
+p1149
+sS'Title'
+p1150
+S'ADVANCED HYDROLOGY'
+p1151
+ssS'CE612'
+p1152
+(dp1153
+S'Instructor(s)'
+p1154
+S'SHIVAM TRIPATHI'
+p1155
+sS'Schedule'
+p1156
+S'LEC: MW 09:00-10:00 REQ;'
+p1157
+sS'Course No'
+p1158
+S'CE612'
+p1159
+sS'Title'
+p1160
+S'FLUID MECHANICS LABORATORY'
+p1161
+ssS'ENG112C'
+p1162
+(dp1163
+S'Instructor(s)'
+p1164
+S'T RAVICHANDRAN, ACHLA M RAINA/SUCHITRA MATHUR'
+p1165
+sS'Schedule'
+p1166
+S'LEC: TThF 12:00-13:00 WL228;TUT: W 12:00-13:00 WL228;'
+p1167
+sS'Course No'
+p1168
+S'ENG112C'
+p1169
+sS'Title'
+p1170
+S'ENGLISH LANGUAGE AND COMMUNICATION SKILLS'
+p1171
+ssS'EE621'
+p1172
+(dp1173
+S'Instructor(s)'
+p1174
+S'R K BANSAL'
+p1175
+sS'Schedule'
+p1176
+S'LEC: MWF 10:00-11:00 L2;'
+p1177
+sS'Course No'
+p1178
+S'EE621'
+p1179
+sS'Title'
+p1180
+S'REPRESENTATION AND ANALYSIS OF RANDOM SIGNALS'
+p1181
+ssS'PHY631'
+p1182
+(dp1183
+S'Instructor(s)'
+p1184
+S'Y N MOHAPATRA'
+p1185
+sS'Schedule'
+p1186
+S'LEC: MTW 10:00-11:00 T208;'
+p1187
+sS'Course No'
+p1188
+S'PHY631'
+p1189
+sS'Title'
+p1190
+S'PHYSICS OF SEMICONDUCTOR NANOSTRUCTURES'
+p1191
+ssS'EE627'
+p1192
+(dp1193
+S'Instructor(s)'
+p1194
+S'R HEGDE'
+p1195
+sS'Schedule'
+p1196
+S'LEC: ThF 17:00-18:30 ACES213;'
+p1197
+sS'Course No'
+p1198
+S'EE627'
+p1199
+sS'Title'
+p1200
+S'SPEECH SIGNAL PROCESSING'
+p1201
+ssS'EE624'
+p1202
+(dp1203
+S'Instructor(s)'
+p1204
+S'A BANERJEE'
+p1205
+sS'Schedule'
+p1206
+S'LEC: MTF 09:00-10:00 ACES213;'
+p1207
+sS'Course No'
+p1208
+S'EE624'
+p1209
+sS'Title'
+p1210
+S'INFORMATION AND CODING THEORY'
+p1211
+ssS'PSY152'
+p1212
+(dp1213
+S'Instructor(s)'
+p1214
+S'KUMAR RAVI PRIYA'
+p1215
+sS'Schedule'
+p1216
+S'LEC: TThF 12:00-13:00 L5;TUT: W 12:00-13:00 L5;'
+p1217
+sS'Course No'
+p1218
+S'PSY152'
+p1219
+sS'Title'
+p1220
+S'APPLICATION OF PSYCHOLOGY TO LIFE'
+p1221
+ssS'NT602'
+p1222
+(dp1223
+S'Instructor(s)'
+p1224
+S'O P SINGH'
+p1225
+sS'Schedule'
+p1226
+S'LEC: TF 12:00-13:30 REQ;'
+p1227
+sS'Course No'
+p1228
+S'NT602'
+p1229
+sS'Title'
+p1230
+S'NUCLEAR AND REACTOR PHYSICS'
+p1231
+ssS'SE332'
+p1232
+(dp1233
+S'Instructor(s)'
+p1234
+S'S VERMA'
+p1235
+sS'Schedule'
+p1236
+S'LEC: MTTh 10:00-11:00 T206;TUT: W 10:00-11:00 T206;'
+p1237
+sS'Course No'
+p1238
+S'SE332'
+p1239
+sS'Title'
+p1240
+S'BASIC ORGANIC CHEMISTRY'
+p1241
+ssS'CHM401'
+p1242
+(dp1243
+S'Instructor(s)'
+p1244
+S'R RAMAPANICKER'
+p1245
+sS'Schedule'
+p1246
+S'LEC: TThF 10:00-11:00 WL222;'
+p1247
+sS'Course No'
+p1248
+S'CHM401'
+p1249
+sS'Title'
+p1250
+S'ORGANIC CHEMISTRY I'
+p1251
+ssS'CE251'
+p1252
+(dp1253
+S'Instructor(s)'
+p1254
+S'SUDHIR MISHRA'
+p1255
+sS'Schedule'
+p1256
+S'LEC: MTF 10:00-11:00 L10;TUT: Th 10:00-11:00 L10;'
+p1257
+sS'Course No'
+p1258
+S'CE251'
+p1259
+sS'Title'
+p1260
+S'CONSTRUCTION MATERIALS'
+p1261
+ssS'PE101'
+p1262
+(dp1263
+S'Instructor(s)'
+p1264
+S'SPEC'
+p1265
+sS'Schedule'
+p1266
+S'LEC:'
+p1267
+sS'Course No'
+p1268
+S'PE101'
+p1269
+sS'Title'
+p1270
+S'MORNING EXERCISE'
+p1271
+ssS'DES633'
+p1272
+(dp1273
+S'Instructor(s)'
+p1274
+S'N TIWARI'
+p1275
+sS'Schedule'
+p1276
+S'LEC: MWF 09:00-10:00 REQ;'
+p1277
+sS'Course No'
+p1278
+S'DES633'
+p1279
+sS'Title'
+p1280
+S'INTEGRATED PRODUCT DEVELOPMENT-I'
+p1281
+ssS'MTH311'
+p1282
+(dp1283
+S'Instructor(s)'
+p1284
+S'D KUNDU'
+p1285
+sS'Schedule'
+p1286
+S'LEC: MTW 15:00-16:00 L8;TUT: Th 15:00-16:00 L8;'
+p1287
+sS'Course No'
+p1288
+S'MTH311'
+p1289
+sS'Title'
+p1290
+S'PROBABILITY THEORY - I'
+p1291
+ssS'CE311'
+p1292
+(dp1293
+S'Instructor(s)'
+p1294
+S'R SRIVASTAVA'
+p1295
+sS'Schedule'
+p1296
+S'LEC: MTh 14:00-15:00 L3;W 11:00-12:00 L3;TUT: T 14:'
+p1297
+sS'Course No'
+p1298
+S'CE311'
+p1299
+sS'Title'
+p1300
+S'ENGINEERING HYDROLOGY'
+p1301
+ssS'AE622'
+p1302
+(dp1303
+S'Instructor(s)'
+p1304
+S'T K SENGUPTA'
+p1305
+sS'Schedule'
+p1306
+S'LEC: TTh 12:00-13:30 AE04;'
+p1307
+sS'Course No'
+p1308
+S'AE622'
+p1309
+sS'Title'
+p1310
+S'COMPUTATIONAL FLUID DYNAMICS'
+p1311
+ssS'SE381'
+p1312
+(dp1313
+S'Instructor(s)'
+p1314
+S'P K PANIGRAHI'
+p1315
+sS'Schedule'
+p1316
+S'LEC: MWF 10:00-11:00 L6;TUT: T 10:00-11:00 L6;'
+p1317
+sS'Course No'
+p1318
+S'SE381'
+p1319
+sS'Title'
+p1320
+S'MICROSCALE THERMAL SCIENCES'
+p1321
+ssS'PHY799'
+p1322
+(dp1323
+S'Instructor(s)'
+p1324
+S'CONVENOR DPGC'
+p1325
+sS'Schedule'
+p1326
+S'LEC:'
+p1327
+sS'Course No'
+p1328
+S'PHY799'
+p1329
+sS'Title'
+p1330
+S'RESEARCH'
+p1331
+ssS'EEM699'
+p1332
+(dp1333
+S'Instructor(s)'
+p1334
+S'CONVENOR DPGC'
+p1335
+sS'Schedule'
+p1336
+S'LEC:'
+p1337
+sS'Course No'
+p1338
+S'EEM699'
+p1339
+sS'Title'
+p1340
+S'M.TECH THESIS'
+p1341
+ssS'ECO201'
+p1342
+(dp1343
+S'Instructor(s)'
+p1344
+S'SARANI SAHA'
+p1345
+sS'Schedule'
+p1346
+S'LEC: MTWTh 16:00-17:00 FB668;'
+p1347
+sS'Course No'
+p1348
+S'ECO201'
+p1349
+sS'Title'
+p1350
+S'MICROECONOMICS - I'
+p1351
+ssS'MTH649'
+p1352
+(dp1353
+S'Instructor(s)'
+p1354
+S'N NILAKANTHAN'
+p1355
+sS'Schedule'
+p1356
+S'LEC: WThF 17:00-18:00 T201;'
+p1357
+sS'Course No'
+p1358
+S'MTH649'
+p1359
+sS'Title'
+p1360
+S'ALGEBRAIC TOPOLOGY'
+p1361
+ssS'BSE491'
+p1362
+(dp1363
+S'Instructor(s)'
+p1364
+S'D S KATTI, M DAS'
+p1365
+sS'Schedule'
+p1366
+S'LEC:'
+p1367
+sS'Course No'
+p1368
+S'BSE491'
+p1369
+sS'Title'
+p1370
+S'BSBE LAB IV BIOMECHANICS & BIOMATERIALS'
+p1371
+ssS'BSE498'
+p1372
+(dp1373
+S'Instructor(s)'
+p1374
+S'CONVENOR DUGC'
+p1375
+sS'Schedule'
+p1376
+S'LEC:'
+p1377
+sS'Course No'
+p1378
+S'BSE498'
+p1379
+sS'Title'
+p1380
+S'PROJECT I'
+p1381
+ssS'DES681'
+p1382
+(dp1383
+S'Instructor(s)'
+p1384
+S'KOUMUDI P PATIL'
+p1385
+sS'Schedule'
+p1386
+S'LEC:'
+p1387
+sS'Course No'
+p1388
+S'DES681'
+p1389
+sS'Title'
+p1390
+S'DESIGN PROJECT I'
+p1391
+ssS'EE370'
+p1392
+(dp1393
+S'Instructor(s)'
+p1394
+S'S S K IYER'
+p1395
+sS'Schedule'
+p1396
+S'LEC: M 12:00-13:00 L4;Th 11:00-12:00 L4;F 15:00-16:00'
+p1397
+sS'Course No'
+p1398
+S'EE370'
+p1399
+sS'Title'
+p1400
+S'DIGITAL ELECTRONICS & MICROPROCESSOR TECHNOLOGY'
+p1401
+ssS'CS220'
+p1402
+(dp1403
+S'Instructor(s)'
+p1404
+S'A KARKARE'
+p1405
+sS'Schedule'
+p1406
+S'LEC: MTTh 10:00-11:00 CS101;'
+p1407
+sS'Course No'
+p1408
+S'CS220'
+p1409
+sS'Title'
+p1410
+S'INTRODUCTION TO COMPUTER ORGANISATION'
+p1411
+ssS'LT699'
+p1412
+(dp1413
+S'Instructor(s)'
+p1414
+S'CONVENOR DPGC'
+p1415
+sS'Schedule'
+p1416
+S'LEC:'
+p1417
+sS'Course No'
+p1418
+S'LT699'
+p1419
+sS'Title'
+p1420
+S'M TECH THESIS'
+p1421
+ssS'MTH201N'
+p1422
+(dp1423
+S'Instructor(s)'
+p1424
+S'A K MALOO'
+p1425
+sS'Schedule'
+p1426
+S'LEC: TThF 08:00-09:00 L6;TUT: W 08:00-09:00 L6;'
+p1427
+sS'Course No'
+p1428
+S'MTH201N'
+p1429
+sS'Title'
+p1430
+S'LINEAR ALGEBRA'
+p1431
+ssS'CHE659'
+p1432
+(dp1433
+S'Instructor(s)'
+p1434
+S'S PANDA'
+p1435
+sS'Schedule'
+p1436
+S'LEC: MWTh 10:00-11:00 FB470;'
+p1437
+sS'Course No'
+p1438
+S'CHE659'
+p1439
+sS'Title'
+p1440
+S'PROCESS ENGG. PRINCIPLES IN MICRO. FABRICATION'
+p1441
+ssS'ECO514'
+p1442
+(dp1443
+S'Instructor(s)'
+p1444
+S'K K SAXENA'
+p1445
+sS'Schedule'
+p1446
+S'LEC: MTWTh 10:00-11:00 FB668;'
+p1447
+sS'Course No'
+p1448
+S'ECO514'
+p1449
+sS'Title'
+p1450
+S'INPUT-OUTPUT TECHNIQUES'
+p1451
+ssS'CS340'
+p1452
+(dp1453
+S'Instructor(s)'
+p1454
+S'ANIL SETH'
+p1455
+sS'Schedule'
+p1456
+S'LEC: M 15:00-16:00 CS101;WF 12:00-13:00 CS101;'
+p1457
+sS'Course No'
+p1458
+S'CS340'
+p1459
+sS'Title'
+p1460
+S'THEORY OF COMPUTATION'
+p1461
+ssS'CHE799'
+p1462
+(dp1463
+S'Instructor(s)'
+p1464
+S'CONVENOR DPGC'
+p1465
+sS'Schedule'
+p1466
+S'LEC:'
+p1467
+sS'Course No'
+p1468
+S'CHE799'
+p1469
+sS'Title'
+p1470
+S'PHD THESIS'
+p1471
+ssS'MTH423'
+p1472
+(dp1473
+S'Instructor(s)'
+p1474
+S'PEEYUSH CHANDRA'
+p1475
+sS'Schedule'
+p1476
+S'LEC: MTW 15:00-16:00 FB557;TUT: Th 15:00-16:00 FB557;'
+p1477
+sS'Course No'
+p1478
+S'MTH423'
+p1479
+sS'Title'
+p1480
+S'INTRODUCTION TO CONTINUUM MACHANICS'
+p1481
+ssS'MTH421'
+p1482
+(dp1483
+S'Instructor(s)'
+p1484
+S'MALAY BANERJEE'
+p1485
+sS'Schedule'
+p1486
+S'LEC: TWF 11:00-12:00 WL218;TUT: Th 11:00-12:00 WL218;'
+p1487
+sS'Course No'
+p1488
+S'MTH421'
+p1489
+sS'Title'
+p1490
+S'ORDINARY DIFFERENTIAL EQUATIONS'
+p1491
+ssS'MTH428'
+p1492
+(dp1493
+S'Instructor(s)'
+p1494
+S'D BAHUGUNA'
+p1495
+sS'Schedule'
+p1496
+S'LEC: MTW 10:00-11:00 L8;TUT: F 10:00-11:00 L8;'
+p1497
+sS'Course No'
+p1498
+S'MTH428'
+p1499
+sS'Title'
+p1500
+S'MATHEMATICAL METHODS'
+p1501
+ssS'TA101N'
+p1502
+(dp1503
+S'Instructor(s)'
+p1504
+S'N R PATRA'
+p1505
+sS'Schedule'
+p1506
+S'LEC: MW 10:00-11:00 L17;'
+p1507
+sS'Course No'
+p1508
+S'TA101N'
+p1509
+sS'Title'
+p1510
+S'ENGINEERING GRAPHICS'
+p1511
+ssS'CHM423'
+p1512
+(dp1513
+S'Instructor(s)'
+p1514
+S'M RANGANATHAN'
+p1515
+sS'Schedule'
+p1516
+S'LEC:'
+p1517
+sS'Course No'
+p1518
+S'CHM423'
+p1519
+sS'Title'
+p1520
+S'PHYSICAL CHEMISTRY LAB'
+p1521
+ssS'MME310'
+p1522
+(dp1523
+S'Instructor(s)'
+p1524
+S'VIVEK VERMA'
+p1525
+sS'Schedule'
+p1526
+S'LEC: MWF 10:00-11:00 L11;'
+p1527
+sS'Course No'
+p1528
+S'MME310'
+p1529
+sS'Title'
+p1530
+S'MECHANICAL BEHAVIOUR OF MATERIALS'
+p1531
+ssS'CHM664'
+p1532
+(dp1533
+S'Instructor(s)'
+p1534
+S'S MANOGARAN'
+p1535
+sS'Schedule'
+p1536
+S'LEC: TThF 09:00-10:00 FB426;'
+p1537
+sS'Course No'
+p1538
+S'CHM664'
+p1539
+sS'Title'
+p1540
+S'MODERN PHYSICAL METHODS IN CHEMISTRY'
+p1541
+ssS'MSE799'
+p1542
+(dp1543
+S'Instructor(s)'
+p1544
+S'CONVENER DPGC'
+p1545
+sS'Schedule'
+p1546
+S'LEC:'
+p1547
+sS'Course No'
+p1548
+S'MSE799'
+p1549
+sS'Title'
+p1550
+S'PH D THESIS'
+p1551
+ssS'ECO333'
+p1552
+(dp1553
+S'Instructor(s)'
+p1554
+S'S SINHA'
+p1555
+sS'Schedule'
+p1556
+S'LEC: MWTh 15:00-16:00 FB668;F 16:00-17:00 FB668;'
+p1557
+sS'Course No'
+p1558
+S'ECO333'
+p1559
+sS'Title'
+p1560
+S'MONEY AND BANKING'
+p1561
+ssS'MBA631'
+p1562
+(dp1563
+S'Instructor(s)'
+p1564
+S'J CHATTERJEE'
+p1565
+sS'Schedule'
+p1566
+S'LEC: TW 15:30-17:00 NB320;'
+p1567
+sS'Course No'
+p1568
+S'MBA631'
+p1569
+sS'Title'
+p1570
+S'MARKETING MANAGEMENT'
+p1571
+ssS'CS601'
+p1572
+(dp1573
+S'Instructor(s)'
+p1574
+S'H C KARNICK, S BASWANA'
+p1575
+sS'Schedule'
+p1576
+S'LEC: TWF 11:00-12:00 CS101;'
+p1577
+sS'Course No'
+p1578
+S'CS601'
+p1579
+sS'Title'
+p1580
+S'FUNDAMENTALS OF CSE; MATHEMATICS FOR CS, ALGORITHMS'
+p1581
+ssS'CS633'
+p1582
+(dp1583
+S'Instructor(s)'
+p1584
+S'AJAI JAIN'
+p1585
+sS'Schedule'
+p1586
+S'LEC: MTh 12:00-13:30 CS101;'
+p1587
+sS'Course No'
+p1588
+S'CS633'
+p1589
+sS'Title'
+p1590
+S'PARALLEL COMPUTING'
+p1591
+ssS'ME778'
+p1592
+(dp1593
+S'Instructor(s)'
+p1594
+S'N TIWARI'
+p1595
+sS'Schedule'
+p1596
+S'LEC: MT 11:00-12:00 FB370;Th 12:00-13:00 FB370;'
+p1597
+sS'Course No'
+p1598
+S'ME778'
+p1599
+sS'Title'
+p1600
+S'ENGINEERING ACOUSTICS AND ITS CONTROL'
+p1601
+ssS'PHY401'
+p1602
+(dp1603
+S'Instructor(s)'
+p1604
+S'A DUTTA'
+p1605
+sS'Schedule'
+p1606
+S'LEC: MTW 10:00-11:00 L9;TUT: F 10:00-11:00 L9;'
+p1607
+sS'Course No'
+p1608
+S'PHY401'
+p1609
+sS'Title'
+p1610
+S'CLASSICAL MECHANICS'
+p1611
+ssS'PHY400'
+p1612
+(dp1613
+S'Instructor(s)'
+p1614
+S'M K VERMA'
+p1615
+sS'Schedule'
+p1616
+S'LEC: TF 09:00-10:00 FB382;'
+p1617
+sS'Course No'
+p1618
+S'PHY400'
+p1619
+sS'Title'
+p1620
+S'INTRODUCTION TO THE DEPARTMENT'
+p1621
+ssS'AE411'
+p1622
+(dp1623
+S'Instructor(s)'
+p1624
+S'KAMAL PODDAR'
+p1625
+sS'Schedule'
+p1626
+S'LEC: TF 11:00-12:00 AE01;'
+p1627
+sS'Course No'
+p1628
+S'AE411'
+p1629
+sS'Title'
+p1630
+S'EXPERIMENTS IN AERODYNAMICS'
+p1631
+ssS'MME799'
+p1632
+(dp1633
+S'Instructor(s)'
+p1634
+S'CONVENOR DPGC'
+p1635
+sS'Schedule'
+p1636
+S'LEC:'
+p1637
+sS'Course No'
+p1638
+S'MME799'
+p1639
+sS'Title'
+p1640
+S'PHD THESIS'
+p1641
+ssS'PSY774'
+p1642
+(dp1643
+S'Instructor(s)'
+p1644
+S'K RAVIPRIYA'
+p1645
+sS'Schedule'
+p1646
+S'LEC:'
+p1647
+sS'Course No'
+p1648
+S'PSY774'
+p1649
+sS'Title'
+p1650
+S'QUALITATIVE RESEARCH : THEORY AND PRACTICE'
+p1651
+ssS'MTH517'
+p1652
+(dp1653
+S'Instructor(s)'
+p1654
+S'A MITRA'
+p1655
+sS'Schedule'
+p1656
+S'LEC: MTW 12:00-13:00 WL221;TUT: Th 12:00-13:00 WL221;'
+p1657
+sS'Course No'
+p1658
+S'MTH517'
+p1659
+sS'Title'
+p1660
+S'TIME SERIES ANALYSIS'
+p1661
+ssS'MTH515'
+p1662
+(dp1663
+S'Instructor(s)'
+p1664
+S'I D DHARIYAL'
+p1665
+sS'Schedule'
+p1666
+S'LEC: MTW 11:00-12:00 FB557;TUT: Th 11:00-12:00 FB557;'
+p1667
+sS'Course No'
+p1668
+S'MTH515'
+p1669
+sS'Title'
+p1670
+S'INFERENCE - II'
+p1671
+ssS'EE664'
+p1672
+(dp1673
+S'Instructor(s)'
+p1674
+S'S P DAS'
+p1675
+sS'Schedule'
+p1676
+S'LEC: MTF 08:00-09:00 REQ;'
+p1677
+sS'Course No'
+p1678
+S'EE664'
+p1679
+sS'Title'
+p1680
+S'FUNDAMENTALS OF ELECTRIC DRIVES'
+p1681
+ssS'MTH513'
+p1682
+(dp1683
+S'Instructor(s)'
+p1684
+S'S MITRA'
+p1685
+sS'Schedule'
+p1686
+S'LEC: MTW 14:00-15:00 FB557;TUT: Th 14:00-15:00 FB557;'
+p1687
+sS'Course No'
+p1688
+S'MTH513'
+p1689
+sS'Title'
+p1690
+S'ANALYSIS OF VARIANCE'
+p1691
+ssS'MTH512'
+p1692
+(dp1693
+S'Instructor(s)'
+p1694
+S'J DUTTA'
+p1695
+sS'Schedule'
+p1696
+S'LEC: MW 09:00-10:00 L8;Th 12:00-13:00 L8;TUT: F 14:'
+p1697
+sS'Course No'
+p1698
+S'MTH512'
+p1699
+sS'Title'
+p1700
+S'FOUNDATIONS OF MATHEMATICAL FINANCE'
+p1701
+ssS'EE660'
+p1702
+(dp1703
+S'Instructor(s)'
+p1704
+S'P SENSARMA'
+p1705
+sS'Schedule'
+p1706
+S'LEC: MF 12:00-13:30 REQ;'
+p1707
+sS'Course No'
+p1708
+S'EE660'
+p1709
+sS'Title'
+p1710
+S'BASICS OF POWER ELECTRONIC CONVERTERS'
+p1711
+ssS'ENG716'
+p1712
+(dp1713
+S'Instructor(s)'
+p1714
+S'A M RAINA, S MATHUR'
+p1715
+sS'Schedule'
+p1716
+S'LEC:'
+p1717
+sS'Course No'
+p1718
+S'ENG716'
+p1719
+sS'Title'
+p1720
+S'INDIVIDUAL PROJECTS'
+p1721
+ssS'MBA646'
+p1722
+(dp1723
+S'Instructor(s)'
+p1724
+S'VEENA BANSAL'
+p1725
+sS'Schedule'
+p1726
+S'LEC: T 14:00-15:30 NB332;F 10:00-11:30 NB332;'
+p1727
+sS'Course No'
+p1728
+S'MBA646'
+p1729
+sS'Title'
+p1730
+S'ENTERPRISE INTEGRATION WITH IT'
+p1731
+ssS'MBA641'
+p1732
+(dp1733
+S'Instructor(s)'
+p1734
+S'S C MISRA'
+p1735
+sS'Schedule'
+p1736
+S'LEC: MW 14:00-15:30 NB320;'
+p1737
+sS'Course No'
+p1738
+S'MBA641'
+p1739
+sS'Title'
+p1740
+S'COMPUTING FOR MANAGEMENT'
+p1741
+ssS'IME605'
+p1742
+(dp1743
+S'Instructor(s)'
+p1744
+S'A K MITTAL'
+p1745
+sS'Schedule'
+p1746
+S'LEC: TTh 10:00-11:30 NB332;'
+p1747
+sS'Course No'
+p1748
+S'IME605'
+p1749
+sS'Title'
+p1750
+S'OPERATIONS RESEARCH FOR MANAGEMENT'
+p1751
+ssS'IME603'
+p1752
+(dp1753
+S'Instructor(s)'
+p1754
+S'D PHILIP'
+p1755
+sS'Schedule'
+p1756
+S'LEC: M 11:30-13:00 NB332;W 08:30-10:00 NB332;'
+p1757
+sS'Course No'
+p1758
+S'IME603'
+p1759
+sS'Title'
+p1760
+S'INTRODUCTION TO COMPUTING'
+p1761
+ssS'IME602'
+p1762
+(dp1763
+S'Instructor(s)'
+p1764
+S'R N SENGUPTA'
+p1765
+sS'Schedule'
+p1766
+S'LEC: MTh 08:30-10:00 NB332;'
+p1767
+sS'Course No'
+p1768
+S'IME602'
+p1769
+sS'Title'
+p1770
+S'PROBABILITY AND STATISTICS'
+p1771
+ssS'PHY102S'
+p1772
+(dp1773
+S'Instructor(s)'
+p1774
+S'K SHAHI'
+p1775
+sS'Schedule'
+p1776
+S'LEC: MTF 09:00-10:00 L11;TUT: W 09:00-10:00 T201-202;'
+p1777
+sS'Course No'
+p1778
+S'PHY102S'
+p1779
+sS'Title'
+p1780
+S'PHYSICS-I (SLOW PACE)'
+p1781
+ssS'CE677N'
+p1782
+(dp1783
+S'Instructor(s)'
+p1784
+S'ONKAR DIXIT'
+p1785
+sS'Schedule'
+p1786
+S'LEC: TF 15:00-16:30 T205;'
+p1787
+sS'Course No'
+p1788
+S'CE677N'
+p1789
+sS'Title'
+p1790
+S'GEOSPATIAL DATA PROCESSING'
+p1791
+ssS'CS397'
+p1792
+(dp1793
+S'Instructor(s)'
+p1794
+S'CONVENOR DUGC'
+p1795
+sS'Schedule'
+p1796
+S'LEC:'
+p1797
+sS'Course No'
+p1798
+S'CS397'
+p1799
+sS'Title'
+p1800
+S'SPECIAL TOPICS IN COMPUTER SCIENCE'
+p1801
+ssS'PHY102N'
+p1802
+(dp1803
+S'Instructor(s)'
+p1804
+S'S BHATTACHARJEE, S BANERJEE'
+p1805
+sS'Schedule'
+p1806
+S'LEC: MTTh 09:00-10:00 L7;TUT: F 09:00-10:00 T201-'
+p1807
+sS'Course No'
+p1808
+S'PHY102N'
+p1809
+sS'Title'
+p1810
+S'PHYSICS-I'
+p1811
+ssS'MTH215'
+p1812
+(dp1813
+S'Instructor(s)'
+p1814
+S'G SANTHANAM'
+p1815
+sS'Schedule'
+p1816
+S'LEC: TThF 09:00-10:00 L8;TUT: M 08:00-09:00 L8;'
+p1817
+sS'Course No'
+p1818
+S'MTH215'
+p1819
+sS'Title'
+p1820
+S'NUMBER THEORY'
+p1821
+ssS'ME352'
+p1822
+(dp1823
+S'Instructor(s)'
+p1824
+S'P WAHI'
+p1825
+sS'Schedule'
+p1826
+S'LEC: MThF 15:00-16:00 L9;'
+p1827
+sS'Course No'
+p1828
+S'ME352'
+p1829
+sS'Title'
+p1830
+S'THEORY OF MECHANISMS & MACHINES'
+p1831
+ssS'CS698O'
+p1832
+(dp1833
+S'Instructor(s)'
+p1834
+S'K VENKATARAMANI'
+p1835
+sS'Schedule'
+p1836
+S'LEC: MTh 12:00-13:30 CS102;'
+p1837
+sS'Course No'
+p1838
+S'CS698O'
+p1839
+sS'Title'
+p1840
+S'MACHINE LEARNING: TOOLS AND TECHNIQUES'
+p1841
+ssS'EE698B'
+p1842
+(dp1843
+S'Instructor(s)'
+p1844
+S'A R HARISH'
+p1845
+sS'Schedule'
+p1846
+S'LEC: TThF 09:00-10:00 REQ;'
+p1847
+sS'Course No'
+p1848
+S'EE698B'
+p1849
+sS'Title'
+p1850
+S'PRINCIPLES OF RFID'
+p1851
+ssS'ECO535'
+p1852
+(dp1853
+S'Instructor(s)'
+p1854
+S'VIMAL KUMAR'
+p1855
+sS'Schedule'
+p1856
+S'LEC: M 12:00-13:00 FB668;WTh 14:00-15:00 FB668;TUT: M'
+p1857
+sS'Course No'
+p1858
+S'ECO535'
+p1859
+sS'Title'
+p1860
+S'PUBLIC ECONOMICS'
+p1861
+ssS'CE620'
+p1862
+(dp1863
+S'Instructor(s)'
+p1864
+S'D C RAI'
+p1865
+sS'Schedule'
+p1866
+S'LEC: MTTh 12:00-13:00 L3;'
+p1867
+sS'Course No'
+p1868
+S'CE620'
+p1869
+sS'Title'
+p1870
+S'STRUCTURAL DYNAMICS'
+p1871
+ssS'AE688'
+p1872
+(dp1873
+S'Instructor(s)'
+p1874
+S'ABHISHEK'
+p1875
+sS'Schedule'
+p1876
+S'LEC: TTh 12:00-13:30 AE01;'
+p1877
+sS'Course No'
+p1878
+S'AE688'
+p1879
+sS'Title'
+p1880
+S'DYNAMICS AND VIBRATION'
+p1881
+ssS'AE681'
+p1882
+(dp1883
+S'Instructor(s)'
+p1884
+S'C S UPADHYAY'
+p1885
+sS'Schedule'
+p1886
+S'LEC: MW 12:00-13:30 AE04;'
+p1887
+sS'Course No'
+p1888
+S'AE681'
+p1889
+sS'Title'
+p1890
+S'COMPOSITE MATERIALS'
+p1891
+ssS'AE684'
+p1892
+(dp1893
+S'Instructor(s)'
+p1894
+S'S KAMLE'
+p1895
+sS'Schedule'
+p1896
+S'LEC: TThF 09:00-10:00 AE01;'
+p1897
+sS'Course No'
+p1898
+S'AE684'
+p1899
+sS'Title'
+p1900
+S'AIRCRAFT MATERIALS AND PROCESSES'
+p1901
+ssS'PHY611'
+p1902
+(dp1903
+S'Instructor(s)'
+p1904
+S'A SINGH'
+p1905
+sS'Schedule'
+p1906
+S'LEC: MTW 12:00-13:00 FB482;'
+p1907
+sS'Course No'
+p1908
+S'PHY611'
+p1909
+sS'Title'
+p1910
+S'ADVANCED QUANTUM MECHANICS'
+p1911
+ssS'SE367'
+p1912
+(dp1913
+S'Instructor(s)'
+p1914
+S'A MUKHERJEE'
+p1915
+sS'Schedule'
+p1916
+S'LEC: TThF 08:00-09:00 CS102;'
+p1917
+sS'Course No'
+p1918
+S'SE367'
+p1919
+sS'Title'
+p1920
+S'INTRODUCTION TO COGNITIVE SEIENCE'
+p1921
+ssS'SE360'
+p1922
+(dp1923
+S'Instructor(s)'
+p1924
+S'D BAHUGUNA'
+p1925
+sS'Schedule'
+p1926
+S'LEC: MTW 10:00-11:00 L8;TUT: F 10:00-11:00 L8;'
+p1927
+sS'Course No'
+p1928
+S'SE360'
+p1929
+sS'Title'
+p1930
+S'MATHEMATICAL METHODS'
+p1931
+ssS'CHE611'
+p1932
+(dp1933
+S'Instructor(s)'
+p1934
+S'R P CHHABRA'
+p1935
+sS'Schedule'
+p1936
+S'LEC: MW 08:00-09:30 L13;'
+p1937
+sS'Course No'
+p1938
+S'CHE611'
+p1939
+sS'Title'
+p1940
+S'TRANSPORT PHENOMENA'
+p1941
+ssS'CS653'
+p1942
+(dp1943
+S'Instructor(s)'
+p1944
+S'PIYSH P KURUR'
+p1945
+sS'Schedule'
+p1946
+S'LEC: M 10:00-11:00 CS103;T 12:00-13:00 CS102;Th 10:'
+p1947
+sS'Course No'
+p1948
+S'CS653'
+p1949
+sS'Title'
+p1950
+S'FUNCTIONAL PROGRAMMING'
+p1951
+ssS'CS302'
+p1952
+(dp1953
+S'Instructor(s)'
+p1954
+S'ANIL SETH'
+p1955
+sS'Schedule'
+p1956
+S'LEC: T 15:00-16:00 CS101;Th 14:00-15:00 CS101;'
+p1957
+sS'Course No'
+p1958
+S'CS302'
+p1959
+sS'Title'
+p1960
+S'INTRODUCTION TO MATHEMATICAL LOGIC'
+p1961
+ssS'CHE612'
+p1962
+(dp1963
+S'Instructor(s)'
+p1964
+S'A KUMAR'
+p1965
+sS'Schedule'
+p1966
+S'LEC: MWF 14:00-15:00 L1;'
+p1967
+sS'Course No'
+p1968
+S'CHE612'
+p1969
+sS'Title'
+p1970
+S'SCIENCE & TECHNOLOGY OF DRUGS'
+p1971
+ssS'AE670'
+p1972
+(dp1973
+S'Instructor(s)'
+p1974
+S'P M MOHITE'
+p1975
+sS'Schedule'
+p1976
+S'LEC: MWTh 10:00-11:00 AE01;'
+p1977
+sS'Course No'
+p1978
+S'AE670'
+p1979
+sS'Title'
+p1980
+S'AEROSPACE STRUCTURAL ANALYSIS - I'
+p1981
+ssS'EE330'
+p1982
+(dp1983
+S'Instructor(s)'
+p1984
+S'A JOSHI'
+p1985
+sS'Schedule'
+p1986
+S'LEC: MWF 10:00-11:00 L4;TUT: T 10:00-11:00 REQ;'
+p1987
+sS'Course No'
+p1988
+S'EE330'
+p1989
+sS'Title'
+p1990
+S'POWER SYSTEMS'
+p1991
+ssS'NT699'
+p1992
+(dp1993
+S'Instructor(s)'
+p1994
+S'CONVENER DPGC'
+p1995
+sS'Schedule'
+p1996
+S'LEC:'
+p1997
+sS'Course No'
+p1998
+S'NT699'
+p1999
+sS'Title'
+p2000
+S'M TECH THESIS'
+p2001
+ssS'MTH101S'
+p2002
+(dp2003
+S'Instructor(s)'
+p2004
+S'A DAR'
+p2005
+sS'Schedule'
+p2006
+S'LEC: TThF 08:00-09:00 L12;TUT: W 08:00-09:00 T204-'
+p2007
+sS'Course No'
+p2008
+S'MTH101S'
+p2009
+sS'Title'
+p2010
+S'MATHEMATICS-I - SLOW PACED'
+p2011
+ssS'MTH101N'
+p2012
+(dp2013
+S'Instructor(s)'
+p2014
+S'RAMA RAWAT, P SHUNMUGARAJ'
+p2015
+sS'Schedule'
+p2016
+S'LEC: MWF 11:00-12:00 L7;Th 11:00-12:00 T101-112;TUT:'
+p2017
+sS'Course No'
+p2018
+S'MTH101N'
+p2019
+sS'Title'
+p2020
+S'MATHEMATICS I'
+p2021
+ssS'CS719'
+p2022
+(dp2023
+S'Instructor(s)'
+p2024
+S'SUMIT GANGULY'
+p2025
+sS'Schedule'
+p2026
+S'LEC: T 10:00-11:00 CS102;WF 10:00-11:00 CS101;'
+p2027
+sS'Course No'
+p2028
+S'CS719'
+p2029
+sS'Title'
+p2030
+S'DATA STREAMING: ALGORITHMS & SYSTEMS'
+p2031
+ssS'CS497'
+p2032
+(dp2033
+S'Instructor(s)'
+p2034
+S'CONVENOR DUGC'
+p2035
+sS'Schedule'
+p2036
+S'LEC:'
+p2037
+sS'Course No'
+p2038
+S'CS497'
+p2039
+sS'Title'
+p2040
+S'SPECIAL TOPICS IN COMPUTER SCIENCE'
+p2041
+ssS'CS498'
+p2042
+(dp2043
+S'Instructor(s)'
+p2044
+S'CONVENOR DUGC'
+p2045
+sS'Schedule'
+p2046
+S'LEC:'
+p2047
+sS'Course No'
+p2048
+S'CS498'
+p2049
+sS'Title'
+p2050
+S'B TECH PROJECT'
+p2051
+ssS'CHM441'
+p2052
+(dp2053
+S'Instructor(s)'
+p2054
+S'V CHANDRASEKHAR'
+p2055
+sS'Schedule'
+p2056
+S'LEC: MTTh 09:00-10:00 WL222;'
+p2057
+sS'Course No'
+p2058
+S'CHM441'
+p2059
+sS'Title'
+p2060
+S'INORGANIC CHEMISTRY I'
+p2061
+ssS'ECO413'
+p2062
+(dp2063
+S'Instructor(s)'
+p2064
+S'B RATH, K K SAXENA'
+p2065
+sS'Schedule'
+p2066
+S'LEC: MTWTh 15:00-16:00 FB656;'
+p2067
+sS'Course No'
+p2068
+S'ECO413'
+p2069
+sS'Title'
+p2070
+S'PLANNING TECHNQUE'
+p2071
+ssS'CHM621'
+p2072
+(dp2073
+S'Instructor(s)'
+p2074
+S'N NAIR'
+p2075
+sS'Schedule'
+p2076
+S'LEC: MWF 10:00-11:00 FB426;'
+p2077
+sS'Course No'
+p2078
+S'CHM621'
+p2079
+sS'Title'
+p2080
+S'CHEMICAL BINDING'
+p2081
+ssS'CHM629'
+p2082
+(dp2083
+S'Instructor(s)'
+p2084
+S'P SEN'
+p2085
+sS'Schedule'
+p2086
+S'LEC: TThF 11:00-12:00 FB434;'
+p2087
+sS'Course No'
+p2088
+S'CHM629'
+p2089
+sS'Title'
+p2090
+S'PRINCIPLES OF PHYSICAL CHEMISTRY'
+p2091
+ssS'MSE699'
+p2092
+(dp2093
+S'Instructor(s)'
+p2094
+S'CONVENER DPGC'
+p2095
+sS'Schedule'
+p2096
+S'LEC:'
+p2097
+sS'Course No'
+p2098
+S'MSE699'
+p2099
+sS'Title'
+p2100
+S'M.TECH THESIS'
+p2101
+ssS'ESC101N'
+p2102
+(dp2103
+S'Instructor(s)'
+p2104
+S'DHEERAJ SANGHI'
+p2105
+sS'Schedule'
+p2106
+S'LEC: MTTh 10:00-11:00 L7;TUT: W 10:00-11:00 T101-'
+p2107
+sS'Course No'
+p2108
+S'ESC101N'
+p2109
+sS'Title'
+p2110
+S'FUNDAMENTAL OF COMPUTING'
+p2111
+ssS'MBA676'
+p2112
+(dp2113
+S'Instructor(s)'
+p2114
+S'B V PHANI'
+p2115
+sS'Schedule'
+p2116
+S'LEC: TTh 08:30-10:00 NB332;'
+p2117
+sS'Course No'
+p2118
+S'MBA676'
+p2119
+sS'Title'
+p2120
+S'SECURITY ANALYSIS, DERIVATIVES & PORTFOLIO MANAGEMENT'
+p2121
+ssS'PSY798'
+p2122
+(dp2123
+S'Instructor(s)'
+p2124
+S'SHIKHA DIXIT'
+p2125
+sS'Schedule'
+p2126
+S'LEC:'
+p2127
+sS'Course No'
+p2128
+S'PSY798'
+p2129
+sS'Title'
+p2130
+S'ADVANCED COURSE IN SOCIAL COGNITION'
+p2131
+ssS'PSY799'
+p2132
+(dp2133
+S'Instructor(s)'
+p2134
+S'CONVENOR DPGC'
+p2135
+sS'Schedule'
+p2136
+S'LEC:'
+p2137
+sS'Course No'
+p2138
+S'PSY799'
+p2139
+sS'Title'
+p2140
+S'PHD THESIS'
+p2141
+ssS'MSE690'
+p2142
+(dp2143
+S'Instructor(s)'
+p2144
+S'CONVENER DPGC'
+p2145
+sS'Schedule'
+p2146
+S'LEC:'
+p2147
+sS'Course No'
+p2148
+S'MSE690'
+p2149
+sS'Title'
+p2150
+S'SEMINAR PARTICIPATION'
+p2151
+ssS'MSE691'
+p2152
+(dp2153
+S'Instructor(s)'
+p2154
+S'CONVENER DPGC'
+p2155
+sS'Schedule'
+p2156
+S'LEC:'
+p2157
+sS'Course No'
+p2158
+S'MSE691'
+p2159
+sS'Title'
+p2160
+S'SEMINAR PRESENTATION'
+p2161
+ssS'SOC734'
+p2162
+(dp2163
+S'Instructor(s)'
+p2164
+S'M JHA'
+p2165
+sS'Schedule'
+p2166
+S'LEC:'
+p2167
+sS'Course No'
+p2168
+S'SOC734'
+p2169
+sS'Title'
+p2170
+S'SOCIAL INEQUALITY AND STRATIFICATION'
+p2171
+ssS'MBA622'
+p2172
+(dp2173
+S'Instructor(s)'
+p2174
+S'R R K SHARMA'
+p2175
+sS'Schedule'
+p2176
+S'LEC: MW 10:00-11:30 NB332;'
+p2177
+sS'Course No'
+p2178
+S'MBA622'
+p2179
+sS'Title'
+p2180
+S'MANUFACTURING STRATEGY'
+p2181
+ssS'MTH696'
+p2182
+(dp2183
+S'Instructor(s)'
+p2184
+S'P DUTT'
+p2185
+sS'Schedule'
+p2186
+S'LEC: WThF 17:00-18:00 T202;'
+p2187
+sS'Course No'
+p2188
+S'MTH696'
+p2189
+sS'Title'
+p2190
+S'SPECTRAL METHODS FOR PARTIAL DIFFERENTIAL EQUATIONS'
+p2191
+ssS'MME690'
+p2192
+(dp2193
+S'Instructor(s)'
+p2194
+S'CONVENER DPGC'
+p2195
+sS'Schedule'
+p2196
+S'LEC:'
+p2197
+sS'Course No'
+p2198
+S'MME690'
+p2199
+sS'Title'
+p2200
+S'SEMINAR PARTICIPATION'
+p2201
+ssS'MME691'
+p2202
+(dp2203
+S'Instructor(s)'
+p2204
+S'CONVENER DPGC'
+p2205
+sS'Schedule'
+p2206
+S'LEC:'
+p2207
+sS'Course No'
+p2208
+S'MME691'
+p2209
+sS'Title'
+p2210
+S'SEMINAR PRESENTATION'
+p2211
+ssS'MME694'
+p2212
+(dp2213
+S'Instructor(s)'
+p2214
+S'A SUBRAMANIAM'
+p2215
+sS'Schedule'
+p2216
+S'LEC: MWF 11:00-12:00 WL225;'
+p2217
+sS'Course No'
+p2218
+S'MME694'
+p2219
+sS'Title'
+p2220
+S'NANOSTRUCTURES AND NANOMATERIALS: CHARACTERIZATION'
+p2221
+ssS'ESO204'
+p2222
+(dp2223
+S'Instructor(s)'
+p2224
+S'N N KISHORE'
+p2225
+sS'Schedule'
+p2226
+S'LEC: MWF 09:00-10:00 L2;TUT: TTh 09:00-10:00 T106-'
+p2227
+sS'Course No'
+p2228
+S'ESO204'
+p2229
+sS'Title'
+p2230
+S'MECHANICS OF SOLIDS'
+p2231
+ssS'MME699'
+p2232
+(dp2233
+S'Instructor(s)'
+p2234
+S'CONVENOR DPGC'
+p2235
+sS'Schedule'
+p2236
+S'LEC:'
+p2237
+sS'Course No'
+p2238
+S'MME699'
+p2239
+sS'Title'
+p2240
+S'M TECH THESIS'
+p2241
+ssS'ESO202'
+p2242
+(dp2243
+S'Instructor(s)'
+p2244
+S'D P MISHRA'
+p2245
+sS'Schedule'
+p2246
+S'LEC: MWF 09:00-10:00 L16;TUT: TTh 09:00-10:00 T101-'
+p2247
+sS'Course No'
+p2248
+S'ESO202'
+p2249
+sS'Title'
+p2250
+S'THERMODYNAMICS'
+p2251
+ssS'MTH552'
+p2252
+(dp2253
+S'Instructor(s)'
+p2254
+S'A MITRA'
+p2255
+sS'Schedule'
+p2256
+S'LEC: MTW 10:00-11:00 WL221;TUT: Th 10:00-11:00 WL221;'
+p2257
+sS'Course No'
+p2258
+S'MTH552'
+p2259
+sS'Title'
+p2260
+S'STATISTICAL & AI TECHIQUES IN DATA MINING'
+p2261
+ssS'PHY690Y'
+p2262
+(dp2263
+S'Instructor(s)'
+p2264
+S'D SAHDEV'
+p2265
+sS'Schedule'
+p2266
+S'LEC: T 12:00-13:00 WL226;WTh 12:00-13:00 T208;'
+p2267
+sS'Course No'
+p2268
+S'PHY690Y'
+p2269
+sS'Title'
+p2270
+S'PHYSICS OF MICRO-IMAGING AND SCANNING PROBE'
+p2271
+ssS'PHY690A'
+p2272
+(dp2273
+S'Instructor(s)'
+p2274
+S'H WANARE'
+p2275
+sS'Schedule'
+p2276
+S'LEC: MTW 12:00-13:00 SL215;'
+p2277
+sS'Course No'
+p2278
+S'PHY690A'
+p2279
+sS'Title'
+p2280
+S'INTRODUCTION TO LASER AND PHYSICS'
+p2281
+ssS'CE699'
+p2282
+(dp2283
+S'Instructor(s)'
+p2284
+S'CONVENOR DPGC'
+p2285
+sS'Schedule'
+p2286
+S'LEC:'
+p2287
+sS'Course No'
+p2288
+S'CE699'
+p2289
+sS'Title'
+p2290
+S'M. TECH THESIS'
+p2291
+ssS'PHY690E'
+p2292
+(dp2293
+S'Instructor(s)'
+p2294
+S'V RAVISHANKAR'
+p2295
+sS'Schedule'
+p2296
+S'LEC: MTW 09:00-10:00 WL226;'
+p2297
+sS'Course No'
+p2298
+S'PHY690E'
+p2299
+sS'Title'
+p2300
+S'QUANTUM DYNAMICS'
+p2301
+ssS'MTH413'
+p2302
+(dp2303
+S'Instructor(s)'
+p2304
+S'NEERAJ MISHRA'
+p2305
+sS'Schedule'
+p2306
+S'LEC: MTW 08:00-09:00 FB557;TUT: Th 08:00-09:00 FB557;'
+p2307
+sS'Course No'
+p2308
+S'MTH413'
+p2309
+sS'Title'
+p2310
+S'REAL AND COMPLEX ANALYSIS'
+p2311
+ssS'MTH417'
+p2312
+(dp2313
+S'Instructor(s)'
+p2314
+S'SHALABH'
+p2315
+sS'Schedule'
+p2316
+S'LEC: MTW 10:00-11:00 FB557;TUT: Th 10:00-11:00 FB557;'
+p2317
+sS'Course No'
+p2318
+S'MTH417'
+p2319
+sS'Title'
+p2320
+S'SAMPLING THEORY'
+p2321
+ssS'MTH415'
+p2322
+(dp2323
+S'Instructor(s)'
+p2324
+S'S MITRA'
+p2325
+sS'Schedule'
+p2326
+S'LEC: MTW 09:00-10:00 FB557;TUT: Th 09:00-10:00 FB557;'
+p2327
+sS'Course No'
+p2328
+S'MTH415'
+p2329
+sS'Title'
+p2330
+S'MATRIX THEORY AND LINEAR ESTIMATION'
+p2331
+ssS'MSE600'
+p2332
+(dp2333
+S'Instructor(s)'
+p2334
+S'R C SHARMA'
+p2335
+sS'Schedule'
+p2336
+S'LEC: MWF 10:00-11:00 WL225;'
+p2337
+sS'Course No'
+p2338
+S'MSE600'
+p2339
+sS'Title'
+p2340
+S'ADVANCED THERMODYNAMICS'
+p2341
+ssS'MSE605'
+p2342
+(dp2343
+S'Instructor(s)'
+p2344
+S'K BALANI'
+p2345
+sS'Schedule'
+p2346
+S'LEC: MWF 14:00-15:00 L11;'
+p2347
+sS'Course No'
+p2348
+S'MSE605'
+p2349
+sS'Title'
+p2350
+S'SURFACE PHENOMENA AND CHARACTERIZATION'
+p2351
+ssS'MME320'
+p2352
+(dp2353
+S'Instructor(s)'
+p2354
+S'S P MEHROTRA'
+p2355
+sS'Schedule'
+p2356
+S'LEC: MWF 09:00-10:00 L11;'
+p2357
+sS'Course No'
+p2358
+S'MME320'
+p2359
+sS'Title'
+p2360
+S'PRINCIPLES OF METAL EXTRACTION AND REFINING'
+p2361
+ssS'ME724'
+p2362
+(dp2363
+S'Instructor(s)'
+p2364
+S'S L DAS'
+p2365
+sS'Schedule'
+p2366
+S'LEC: MWF 11:00-12:00 T210;'
+p2367
+sS'Course No'
+p2368
+S'ME724'
+p2369
+sS'Title'
+p2370
+S'NONLINEAR FINITE ELEMENT METHOD'
+p2371
+ssS'ECO747'
+p2372
+(dp2373
+S'Instructor(s)'
+p2374
+S'P M PRASAD'
+p2375
+sS'Schedule'
+p2376
+S'LEC:'
+p2377
+sS'Course No'
+p2378
+S'ECO747'
+p2379
+sS'Title'
+p2380
+S'ENVIRONMENTAL ECONOMICS LEGISLATION AND SOCIAL IMPACT'
+p2381
+ssS'ME641'
+p2382
+(dp2383
+S'Instructor(s)'
+p2384
+S'M K DAS'
+p2385
+sS'Schedule'
+p2386
+S'LEC: MF 15:00-16:00 T210;Th 12:00-13:00 T210;'
+p2387
+sS'Course No'
+p2388
+S'ME641'
+p2389
+sS'Title'
+p2390
+S'CONDUCTION AND RADIATION'
+p2391
+ssS'PHY570'
+p2392
+(dp2393
+S'Instructor(s)'
+p2394
+S'H WANARE'
+p2395
+sS'Schedule'
+p2396
+S'LEC:'
+p2397
+sS'Course No'
+p2398
+S'PHY570'
+p2399
+sS'Title'
+p2400
+S'THEORETICAL PROJECT I'
+p2401
+ssS'MBA601'
+p2402
+(dp2403
+S'Instructor(s)'
+p2404
+S'R R K SHARMA'
+p2405
+sS'Schedule'
+p2406
+S'LEC: TTh 11:30-13:00 NB320;'
+p2407
+sS'Course No'
+p2408
+S'MBA601'
+p2409
+sS'Title'
+p2410
+S'ACCOUNTING FOR MANAGEMENT'
+p2411
+ssS'MBA606'
+p2412
+(dp2413
+S'Instructor(s)'
+p2414
+S'ANOOP SINGH'
+p2415
+sS'Schedule'
+p2416
+S'LEC: WF 10:00-11:30 NB320;'
+p2417
+sS'Course No'
+p2418
+S'MBA606'
+p2419
+sS'Title'
+p2420
+S'ECONOMIC ANALYSIS FOR MANAGEMENT'
+p2421
+ssS'ME729'
+p2422
+(dp2423
+S'Instructor(s)'
+p2424
+S'S BASU'
+p2425
+sS'Schedule'
+p2426
+S'LEC: MW 10:00-11:00 FB370;F 09:00-10:00 FB370;'
+p2427
+sS'Course No'
+p2428
+S'ME729'
+p2429
+sS'Title'
+p2430
+S'MODELLING OF MECHANICAL PROPERTIES OF MATERIALS'
+p2431
+ssS'EE380'
+p2432
+(dp2433
+S'Instructor(s)'
+p2434
+S'M SACHIDANANDA'
+p2435
+sS'Schedule'
+p2436
+S'LEC: T 08:00-09:00 L4;Th 10:00-11:00 L4;F 16:00-17:00'
+p2437
+sS'Course No'
+p2438
+S'EE380'
+p2439
+sS'Title'
+p2440
+S'ELECTRICAL ENGINEERING LAB I'
+p2441
+ssS'EE634'
+p2442
+(dp2443
+S'Instructor(s)'
+p2444
+S'N GUPTA'
+p2445
+sS'Schedule'
+p2446
+S'LEC: MF 10:00-11:00 T203;W 12:00-13:00 REQ;'
+p2447
+sS'Course No'
+p2448
+S'EE634'
+p2449
+sS'Title'
+p2450
+S'ELECTRICAL INSULATION IN POWER APPARATUS AND SYSTEMS'
+p2451
+ssS'MTH522'
+p2452
+(dp2453
+S'Instructor(s)'
+p2454
+S'B V R KUMAR'
+p2455
+sS'Schedule'
+p2456
+S'LEC: MTW 14:00-15:00 WL221;TUT: Th 14:00-15:00 WL221;'
+p2457
+sS'Course No'
+p2458
+S'MTH522'
+p2459
+sS'Title'
+p2460
+S'FINITE ELEMENT METHOD'
+p2461
+ssS'EE632'
+p2462
+(dp2463
+S'Instructor(s)'
+p2464
+S'S C SRIVASTAVA'
+p2465
+sS'Schedule'
+p2466
+S'LEC: WTh 08:00-09:30 ACES213;'
+p2467
+sS'Course No'
+p2468
+S'EE632'
+p2469
+sS'Title'
+p2470
+S'ECONOMIC OPERATION & CONTROL OF POWER SYSTEMS'
+p2471
+ssS'MME424'
+p2472
+(dp2473
+S'Instructor(s)'
+p2474
+S'D MAZUMDAR'
+p2475
+sS'Schedule'
+p2476
+S'LEC: TTh 14:00-15:30 WL225;'
+p2477
+sS'Course No'
+p2478
+S'MME424'
+p2479
+sS'Title'
+p2480
+S'MODELLING OF STEELMAKING PROCESSES'
+p2481
+ssS'ECO799'
+p2482
+(dp2483
+S'Instructor(s)'
+p2484
+S'CONVENOR DPGC'
+p2485
+sS'Schedule'
+p2486
+S'LEC:'
+p2487
+sS'Course No'
+p2488
+S'ECO799'
+p2489
+sS'Title'
+p2490
+S'PHD THESIS'
+p2491
+ssS'PHY599'
+p2492
+(dp2493
+S'Instructor(s)'
+p2494
+S'M K VERMA'
+p2495
+sS'Schedule'
+p2496
+S'LEC:'
+p2497
+sS'Course No'
+p2498
+S'PHY599'
+p2499
+sS'Title'
+p2500
+S'M.SC. PROJECT-I'
+p2501
+ssS'DES601'
+p2502
+(dp2503
+S'Instructor(s)'
+p2504
+S'S T ROY'
+p2505
+sS'Schedule'
+p2506
+S'LEC: TTh 15:00-16:00 REQ;'
+p2507
+sS'Course No'
+p2508
+S'DES601'
+p2509
+sS'Title'
+p2510
+S'DESIGN THEORY'
+p2511
+ssS'DES602'
+p2512
+(dp2513
+S'Instructor(s)'
+p2514
+S'B BHATTACHARYA, J RAMKUMAR'
+p2515
+sS'Schedule'
+p2516
+S'LEC: TTh 09:00-10:00 REQ;'
+p2517
+sS'Course No'
+p2518
+S'DES602'
+p2519
+sS'Title'
+p2520
+S'DESIGN PRACTICE I'
+p2521
+ssS'STA800'
+p2522
+(dp2523
+S'Instructor(s)'
+p2524
+S'CONVENOR DPGC'
+p2525
+sS'Schedule'
+p2526
+S'LEC:'
+p2527
+sS'Course No'
+p2528
+S'STA800'
+p2529
+sS'Title'
+p2530
+S'RESEARCH'
+p2531
+ssS'CS455'
+p2532
+(dp2533
+S'Instructor(s)'
+p2534
+S'S K AGGARWAL'
+p2535
+sS'Schedule'
+p2536
+S'LEC: MWF 16:00-17:00 CS101;'
+p2537
+sS'Course No'
+p2538
+S'CS455'
+p2539
+sS'Title'
+p2540
+S'INTRODUCTION TO SOFTWARE ENGINEERING'
+p2541
+ssS'NT799'
+p2542
+(dp2543
+S'Instructor(s)'
+p2544
+S'CONVENER DPGC'
+p2545
+sS'Schedule'
+p2546
+S'LEC:'
+p2547
+sS'Course No'
+p2548
+S'NT799'
+p2549
+sS'Title'
+p2550
+S'PHD THESIS'
+p2551
+ssS'PHI757'
+p2552
+(dp2553
+S'Instructor(s)'
+p2554
+S'VINEET SAHU'
+p2555
+sS'Schedule'
+p2556
+S'LEC:'
+p2557
+sS'Course No'
+p2558
+S'PHI757'
+p2559
+sS'Title'
+p2560
+S'MORAL JUDGEMENT'
+p2561
+ssS'LT631'
+p2562
+(dp2563
+S'Instructor(s)'
+p2564
+S'PRADEEP KUMAR K, A PRADHAN'
+p2565
+sS'Schedule'
+p2566
+S'LEC: MTTh 09:00-10:00 SL215;'
+p2567
+sS'Course No'
+p2568
+S'LT631'
+p2569
+sS'Title'
+p2570
+S'INTRODUCTION TO COHERENT AND LASER OPTICS'
+p2571
+ssS'CHM521'
+p2572
+(dp2573
+S'Instructor(s)'
+p2574
+S'S R GADRE'
+p2575
+sS'Schedule'
+p2576
+S'LEC: MTTh 11:00-12:00 WL222;'
+p2577
+sS'Course No'
+p2578
+S'CHM521'
+p2579
+sS'Title'
+p2580
+S'MATHEMATICS FOR CHEMISTRY'
+p2581
+ssS'BSE702'
+p2582
+(dp2583
+S'Instructor(s)'
+p2584
+S'CONVENER DPGC'
+p2585
+sS'Schedule'
+p2586
+S'LEC:'
+p2587
+sS'Course No'
+p2588
+S'BSE702'
+p2589
+sS'Title'
+p2590
+S'SEMINAR'
+p2591
+ssS'BSE701'
+p2592
+(dp2593
+S'Instructor(s)'
+p2594
+S'CONVENER DPGC'
+p2595
+sS'Schedule'
+p2596
+S'LEC:'
+p2597
+sS'Course No'
+p2598
+S'BSE701'
+p2599
+sS'Title'
+p2600
+S'SEMINAR'
+p2601
+ssS'EE629'
+p2602
+(dp2603
+S'Instructor(s)'
+p2604
+S'Y N SINGH'
+p2605
+sS'Schedule'
+p2606
+S'LEC: MW 09:00-10:00 T203;Th 12:00-13:00 T203;'
+p2607
+sS'Course No'
+p2608
+S'EE629'
+p2609
+sS'Title'
+p2610
+S'DIGITAL SWITCHING'
+p2611
+ssS'SE351'
+p2612
+(dp2613
+S'Instructor(s)'
+p2614
+S'A K MALOO'
+p2615
+sS'Schedule'
+p2616
+S'LEC: TThF 08:00-09:00 L6;TUT: W 08:00-09:00 L6;'
+p2617
+sS'Course No'
+p2618
+S'SE351'
+p2619
+sS'Title'
+p2620
+S'LINEAR ALGEBRA'
+p2621
+ssS'MME498'
+p2622
+(dp2623
+S'Instructor(s)'
+p2624
+S'CONVENOR DUGC'
+p2625
+sS'Schedule'
+p2626
+S'LEC:'
+p2627
+sS'Course No'
+p2628
+S'MME498'
+p2629
+sS'Title'
+p2630
+S'PROJECT I'
+p2631
+ssS'MME499'
+p2632
+(dp2633
+S'Instructor(s)'
+p2634
+S'CONVENER DUGC'
+p2635
+sS'Schedule'
+p2636
+S'LEC:'
+p2637
+sS'Course No'
+p2638
+S'MME499'
+p2639
+sS'Title'
+p2640
+S'PROJECT II'
+p2641
+ssS'DES699'
+p2642
+(dp2643
+S'Instructor(s)'
+p2644
+S'CONVENOR DPGC'
+p2645
+sS'Schedule'
+p2646
+S'LEC:'
+p2647
+sS'Course No'
+p2648
+S'DES699'
+p2649
+sS'Title'
+p2650
+S'M DES THESIS'
+p2651
+ssS'DES698'
+p2652
+(dp2653
+S'Instructor(s)'
+p2654
+S'SATYAKI ROY'
+p2655
+sS'Schedule'
+p2656
+S'LEC:'
+p2657
+sS'Course No'
+p2658
+S'DES698'
+p2659
+sS'Title'
+p2660
+S'SPECIAL STUDIES/PROJECT COURSES IN DESIGN'
+p2661
+ssS'EE200'
+p2662
+(dp2663
+S'Instructor(s)'
+p2664
+S'K S VENKATESH'
+p2665
+sS'Schedule'
+p2666
+S'LEC: MTTh 10:00-11:00 L3;TUT: F 14:00-15:00 T201-204;'
+p2667
+sS'Course No'
+p2668
+S'EE200'
+p2669
+sS'Title'
+p2670
+S'SIGNALS, SYSTEMS AND NETWORKS'
+p2671
+ssS'CE631N'
+p2672
+(dp2673
+S'Instructor(s)'
+p2674
+S'S CHANDRA'
+p2675
+sS'Schedule'
+p2676
+S'LEC: MTTh 12:00-13:00 T205;'
+p2677
+sS'Course No'
+p2678
+S'CE631N'
+p2679
+sS'Title'
+p2680
+S'ADVANCED GEOTECHNICAL ENGINEERING'
+p2681
+ssS'CHM799'
+p2682
+(dp2683
+S'Instructor(s)'
+p2684
+S'CONVENOR DPGC'
+p2685
+sS'Schedule'
+p2686
+S'LEC:'
+p2687
+sS'Course No'
+p2688
+S'CHM799'
+p2689
+sS'Title'
+p2690
+S'RESEARCH'
+p2691
+ssS'CS330'
+p2692
+(dp2693
+S'Instructor(s)'
+p2694
+S'SUBHAJIT ROY'
+p2695
+sS'Schedule'
+p2696
+S'LEC: MWF 14:00-15:00 CS101;'
+p2697
+sS'Course No'
+p2698
+S'CS330'
+p2699
+sS'Title'
+p2700
+S'OPERATING SYSTEMS'
+p2701
+ssS'AE647'
+p2702
+(dp2703
+S'Instructor(s)'
+p2704
+S'A K GHOSH'
+p2705
+sS'Schedule'
+p2706
+S'LEC: MWTh 10:00-11:00 WL218;'
+p2707
+sS'Course No'
+p2708
+S'AE647'
+p2709
+sS'Title'
+p2710
+S'FLIGHT DYNAMICS'
+p2711
+ssS'CHE361'
+p2712
+(dp2713
+S'Instructor(s)'
+p2714
+S'D KUNZRU'
+p2715
+sS'Schedule'
+p2716
+S'LEC: MWF 10:00-11:00 L13;TUT: Th 10:00-11:00 L13;'
+p2717
+sS'Course No'
+p2718
+S'CHE361'
+p2719
+sS'Title'
+p2720
+S'CHEMICAL PROCESS INDUSTRIES'
+p2721
+ssS'PHY103N'
+p2722
+(dp2723
+S'Instructor(s)'
+p2724
+S'ANJAN KR GUPTA, PANKAJ JAIN'
+p2725
+sS'Schedule'
+p2726
+S'LEC: M 12:00-13:00 L7;TTh 11:00-12:00 L7;TUT: F 11:'
+p2727
+sS'Course No'
+p2728
+S'PHY103N'
+p2729
+sS'Title'
+p2730
+S'PHYSICS - II'
+p2731
+ssS'PHY431'
+p2732
+(dp2733
+S'Instructor(s)'
+p2734
+S'K BHATTACHARYA'
+p2735
+sS'Schedule'
+p2736
+S'LEC: M 09:00-10:00 REQ;WTh 09:00-10:00 L12;TUT: F 09:'
+p2737
+sS'Course No'
+p2738
+S'PHY431'
+p2739
+sS'Title'
+p2740
+S'QUANTUM MECHANICS I'
+p2741
+ssS'ENG799'
+p2742
+(dp2743
+S'Instructor(s)'
+p2744
+S'CONVENOR DPGC'
+p2745
+sS'Schedule'
+p2746
+S'LEC:'
+p2747
+sS'Course No'
+p2748
+S'ENG799'
+p2749
+sS'Title'
+p2750
+S'PHD THESIS'
+p2751
+ssS'ME685'
+p2752
+(dp2753
+S'Instructor(s)'
+p2754
+S'K MURLIDHAR'
+p2755
+sS'Schedule'
+p2756
+S'LEC: TThF 08:00-09:00 FB370;'
+p2757
+sS'Course No'
+p2758
+S'ME685'
+p2759
+sS'Title'
+p2760
+S'PROGRAMMING AND NUMERICAL ANALYSIS'
+p2761
+ssS'ME681'
+p2762
+(dp2763
+S'Instructor(s)'
+p2764
+S'B DASGUPTA'
+p2765
+sS'Schedule'
+p2766
+S'LEC: MTThF 16:00-17:00 L6;'
+p2767
+sS'Course No'
+p2768
+S'ME681'
+p2769
+sS'Title'
+p2770
+S'MATHEMATICAL METHODS IN ENGINEERING'
+p2771
+ssS'PSY458'
+p2772
+(dp2773
+S'Instructor(s)'
+p2774
+S'A K SINHA'
+p2775
+sS'Schedule'
+p2776
+S'LEC: MWF 11:00-12:00 L15;TUT: T 11:00-12:00 L15;'
+p2777
+sS'Course No'
+p2778
+S'PSY458'
+p2779
+sS'Title'
+p2780
+S'ORGANIZATIONAL AND ADMINISTRATIVE PSYCHOLOGY'
+p2781
+ssS'ME762'
+p2782
+(dp2783
+S'Instructor(s)'
+p2784
+S'A DUTTA'
+p2785
+sS'Schedule'
+p2786
+S'LEC: TThF 09:00-10:00 L6;'
+p2787
+sS'Course No'
+p2788
+S'ME762'
+p2789
+sS'Title'
+p2790
+S'INTRODUCTION TO ROBOTICS'
+p2791
+ssS'PSY457'
+p2792
+(dp2793
+S'Instructor(s)'
+p2794
+S'L KRISHNAN'
+p2795
+sS'Schedule'
+p2796
+S'LEC: MWF 11:00-12:00 WL226;TUT: T 11:00-12:00 WL226;'
+p2797
+sS'Course No'
+p2798
+S'PSY457'
+p2799
+sS'Title'
+p2800
+S'INTERPERSONAL DYNAMICS'
+p2801
+ssS'PSY451'
+p2802
+(dp2803
+S'Instructor(s)'
+p2804
+S'BRAJ BHUSHAN'
+p2805
+sS'Schedule'
+p2806
+S'LEC: MWF 11:00-12:00 L11;TUT: T 11:00-12:00 L11;'
+p2807
+sS'Course No'
+p2808
+S'PSY451'
+p2809
+sS'Title'
+p2810
+S'PSYCHOLOGY OF ADJUSTMENT'
+p2811
+ssS'PHY224'
+p2812
+(dp2813
+S'Instructor(s)'
+p2814
+S'R VIJAYA'
+p2815
+sS'Schedule'
+p2816
+S'LEC:'
+p2817
+sS'Course No'
+p2818
+S'PHY224'
+p2819
+sS'Title'
+p2820
+S'OPTICAL PHYSICS'
+p2821
+ssS'CHM201N'
+p2822
+(dp2823
+S'Instructor(s)'
+p2824
+S'A CHANDRA, R N MUKHERJEE/M L N RAO'
+p2825
+sS'Schedule'
+p2826
+S'LEC: MTh 08:00-09:00 T101-112, T212;TWF 08:00-09:00'
+p2827
+sS'Course No'
+p2828
+S'CHM201N'
+p2829
+sS'Title'
+p2830
+S'CHEMISTRY'
+p2831
+ssS'EE673'
+p2832
+(dp2833
+S'Instructor(s)'
+p2834
+S'Y N SINGH'
+p2835
+sS'Schedule'
+p2836
+S'LEC: MF 12:00-13:00 REQ;Th 08:00-09:00 T203;'
+p2837
+sS'Course No'
+p2838
+S'EE673'
+p2839
+sS'Title'
+p2840
+S'DIGITAL COMMUNICATION NETWORKS'
+p2841
+ssS'MTH102R'
+p2842
+(dp2843
+S'Instructor(s)'
+p2844
+S'PRAWAL SINHA'
+p2845
+sS'Schedule'
+p2846
+S'LEC: TThF 08:00-09:00 L11;TUT: MW 08:00-09:00 T201-'
+p2847
+sS'Course No'
+p2848
+S'MTH102R'
+p2849
+sS'Title'
+p2850
+S'MATHEMATICS - II'
+p2851
+ssS'BSE681'
+p2852
+(dp2853
+S'Instructor(s)'
+p2854
+S'CONVENER DPGC'
+p2855
+sS'Schedule'
+p2856
+S'LEC:'
+p2857
+sS'Course No'
+p2858
+S'BSE681'
+p2859
+sS'Title'
+p2860
+S'SPECIAL TOPICS IN BIOLOGICAL SCIENCES &'
+p2861
+ssS'ART402'
+p2862
+(dp2863
+S'Instructor(s)'
+p2864
+S'K PATIL'
+p2865
+sS'Schedule'
+p2866
+S'LEC: MWF 11:00-12:00 L8;TUT: T 11:00-12:00 L8;'
+p2867
+sS'Course No'
+p2868
+S'ART402'
+p2869
+sS'Title'
+p2870
+S'MODERN ART'
+p2871
+ssS'PHY500'
+p2872
+(dp2873
+S'Instructor(s)'
+p2874
+S'M K VERMA'
+p2875
+sS'Schedule'
+p2876
+S'LEC:'
+p2877
+sS'Course No'
+p2878
+S'PHY500'
+p2879
+sS'Title'
+p2880
+S'M SC REVIEW PROJECT I'
+p2881
+ssS'PHY501'
+p2882
+(dp2883
+S'Instructor(s)'
+p2884
+S'M K VERMA'
+p2885
+sS'Schedule'
+p2886
+S'LEC:'
+p2887
+sS'Course No'
+p2888
+S'PHY501'
+p2889
+sS'Title'
+p2890
+S'M SC REVIEW PROJECT II'
+p2891
+ssS'PHY502'
+p2892
+(dp2893
+S'Instructor(s)'
+p2894
+S'M K VERMA'
+p2895
+sS'Schedule'
+p2896
+S'LEC:'
+p2897
+sS'Course No'
+p2898
+S'PHY502'
+p2899
+sS'Title'
+p2900
+S'M.SC. REVIEW PROJECT III'
+p2901
+ssS'MBA651'
+p2902
+(dp2903
+S'Instructor(s)'
+p2904
+S'R N SENGUPTA'
+p2905
+sS'Schedule'
+p2906
+S'LEC: TW 08:30-10:00 NB320;'
+p2907
+sS'Course No'
+p2908
+S'MBA651'
+p2909
+sS'Title'
+p2910
+S'QUANTITATIVE METHODS FOR DECISION MAKING'
+p2911
+ssS'PSY776'
+p2912
+(dp2913
+S'Instructor(s)'
+p2914
+S'BRAJ BHUSHAN'
+p2915
+sS'Schedule'
+p2916
+S'LEC:'
+p2917
+sS'Course No'
+p2918
+S'PSY776'
+p2919
+sS'Title'
+p2920
+S'SEMINAR COURSE IN PSYCHOLOGY'
+p2921
+ssS'MSE632'
+p2922
+(dp2923
+S'Instructor(s)'
+p2924
+S'B K MISHRA'
+p2925
+sS'Schedule'
+p2926
+S'LEC: MWF 12:00-13:00 T209;'
+p2927
+sS'Course No'
+p2928
+S'MSE632'
+p2929
+sS'Title'
+p2930
+S'ANALYSIS OF PARTICULATE SYSTEMS'
+p2931
+ssS'ENG709'
+p2932
+(dp2933
+S'Instructor(s)'
+p2934
+S'C PUTTASWAMY'
+p2935
+sS'Schedule'
+p2936
+S'LEC:'
+p2937
+sS'Course No'
+p2938
+S'ENG709'
+p2939
+sS'Title'
+p2940
+S'LINGUISTIC ANALYSIS'
+p2941
+ssS'MTH598'
+p2942
+(dp2943
+S'Instructor(s)'
+p2944
+S'CONVENOR DUGC'
+p2945
+sS'Schedule'
+p2946
+S'LEC:'
+p2947
+sS'Course No'
+p2948
+S'MTH598'
+p2949
+sS'Title'
+p2950
+S'PROJECT-I'
+p2951
+ssS'ME341'
+p2952
+(dp2953
+S'Instructor(s)'
+p2954
+S'P S GHOSHDASTIDAR'
+p2955
+sS'Schedule'
+p2956
+S'LEC: MThF 14:00-15:00 L9;'
+p2957
+sS'Course No'
+p2958
+S'ME341'
+p2959
+sS'Title'
+p2960
+S'HEAT AND MASS TRANSFER'
+p2961
+ssS'EE605'
+p2962
+(dp2963
+S'Instructor(s)'
+p2964
+S'G SHARMA'
+p2965
+sS'Schedule'
+p2966
+S'LEC: MW 08:00-09:00 REQ;F 08:00-09:00 T203;'
+p2967
+sS'Course No'
+p2968
+S'EE605'
+p2969
+sS'Title'
+p2970
+S'INTRODUCTION TO SIGNAL ANALYSIS'
+p2971
+ssS'EE604'
+p2972
+(dp2973
+S'Instructor(s)'
+p2974
+S'S GUPTA'
+p2975
+sS'Schedule'
+p2976
+S'LEC: MTh 12:00-13:00 REQ;W 12:00-13:00 T203;'
+p2977
+sS'Course No'
+p2978
+S'EE604'
+p2979
+sS'Title'
+p2980
+S'IMAGE PROCESSING'
+p2981
+ssS'EE607'
+p2982
+(dp2983
+S'Instructor(s)'
+p2984
+S'P SIRCAR'
+p2985
+sS'Schedule'
+p2986
+S'LEC: MW 17:00-18:30 L8;'
+p2987
+sS'Course No'
+p2988
+S'EE607'
+p2989
+sS'Title'
+p2990
+S'WAVELET TRANSFORMS FOR SIGNAL & IMAGE PROCESSING'
+p2991
+ssS'ESC102N'
+p2992
+(dp2993
+S'Instructor(s)'
+p2994
+S'K VASUDEVAN'
+p2995
+sS'Schedule'
+p2996
+S'LEC: MTThF 17:00-18:00 L9;TUT: W 17:00-18:00 L9;'
+p2997
+sS'Course No'
+p2998
+S'ESC102N'
+p2999
+sS'Title'
+p3000
+S'INTRODUCTION TO ELECTRONICS'
+p3001
+ssS'EE601'
+p3002
+(dp3003
+S'Instructor(s)'
+p3004
+S'N NAIK'
+p3005
+sS'Schedule'
+p3006
+S'LEC: TTh 10:00-11:00 T203;F 12:00-13:00 REQ;'
+p3007
+sS'Course No'
+p3008
+S'EE601'
+p3009
+sS'Title'
+p3010
+S'MATHEMATICAL METHODS IN SIGNAL PROCESSING'
+p3011
+ssS'MTH201'
+p3012
+(dp3013
+S'Instructor(s)'
+p3014
+S''
+sS'Schedule'
+p3015
+S'LEC:'
+p3016
+sS'Course No'
+p3017
+S'MTH201'
+p3018
+sS'Title'
+p3019
+S'LINEAR ALGEBRA'
+p3020
+ssS'CE639'
+p3021
+(dp3022
+S'Instructor(s)'
+p3023
+S'PRIYANKA GHOSH'
+p3024
+sS'Schedule'
+p3025
+S'LEC: TW 14:00-15:30 REQ;'
+p3026
+sS'Course No'
+p3027
+S'CE639'
+p3028
+sS'Title'
+p3029
+S'ANALYTICAL AND NUMERICAL METHODS IN GEOMECHANICS'
+p3030
+ssS'CHM101N'
+p3031
+(dp3032
+S'Instructor(s)'
+p3033
+S'M K GHORAI, G ANANTHARAMAN'
+p3034
+sS'Schedule'
+p3035
+S'LEC:'
+p3036
+sS'Course No'
+p3037
+S'CHM101N'
+p3038
+sS'Title'
+p3039
+S'CHEMISTRY LAB'
+p3040
+ssS'ART102'
+p3041
+(dp3042
+S'Instructor(s)'
+p3043
+S'S T ROY'
+p3044
+sS'Schedule'
+p3045
+S'LEC: TThF 12:00-13:00 L11;TUT: W 12:00-13:00 L11;'
+p3046
+sS'Course No'
+p3047
+S'ART102'
+p3048
+sS'Title'
+p3049
+S'INTRODUCTION TO ART CRITICISM AND APPRECIATION'
+p3050
+ssS'PHY621'
+p3051
+(dp3052
+S'Instructor(s)'
+p3053
+S'R PRASAD'
+p3054
+sS'Schedule'
+p3055
+S'LEC: MF 11:00-12:00 T208;Th 11:00-12:00 WL226;'
+p3056
+sS'Course No'
+p3057
+S'PHY621'
+p3058
+sS'Title'
+p3059
+S'ELECTRONIC STRUCTURE OF MATERIALS'
+p3060
+ssS'AE699'
+p3061
+(dp3062
+S'Instructor(s)'
+p3063
+S'CONVENOR DPGC'
+p3064
+sS'Schedule'
+p3065
+S'LEC:'
+p3066
+sS'Course No'
+p3067
+S'AE699'
+p3068
+sS'Title'
+p3069
+S'M TECH THESIS'
+p3070
+ssS'ART105'
+p3071
+(dp3072
+S'Instructor(s)'
+p3073
+S'SATYAKI ROY'
+p3074
+sS'Schedule'
+p3075
+S'LEC: TThF 12:00-13:00 L15;TUT: W 12:00-13:00 L15;'
+p3076
+sS'Course No'
+p3077
+S'ART105'
+p3078
+sS'Title'
+p3079
+S'INTRODUCTION TO THE ART OF VIDEO MAKING'
+p3080
+ssS'AE676'
+p3081
+(dp3082
+S'Instructor(s)'
+p3083
+S'C VENKATESAN'
+p3084
+sS'Schedule'
+p3085
+S'LEC: MW 12:00-13:30 AE01;'
+p3086
+sS'Course No'
+p3087
+S'AE676'
+p3088
+sS'Title'
+p3089
+S'AEROELASTICITY'
+p3090
+ssS'CHM421'
+p3091
+(dp3092
+S'Instructor(s)'
+p3093
+S'K SHRIHARI'
+p3094
+sS'Schedule'
+p3095
+S'LEC: MWF 12:00-13:00 WL222;'
+p3096
+sS'Course No'
+p3097
+S'CHM421'
+p3098
+sS'Title'
+p3099
+S'PHYSICAL CHEMISTRY I'
+p3100
+ssS'CS622'
+p3101
+(dp3102
+S'Instructor(s)'
+p3103
+S'MAINAK CHAUDHURI'
+p3104
+sS'Schedule'
+p3105
+S'LEC: T 09:00-10:00 CS102;Th 11:00-12:00 CS102;F 09:'
+p3106
+sS'Course No'
+p3107
+S'CS622'
+p3108
+sS'Title'
+p3109
+S'ADVANCED COMPUTER ARCHITECTURE'
+p3110
+ssS'SE315'
+p3111
+(dp3112
+S'Instructor(s)'
+p3113
+S'D SAHDEV'
+p3114
+sS'Schedule'
+p3115
+S'LEC: TWTh 08:00-09:00 L9;TUT: F 08:00-09:00 L9;'
+p3116
+sS'Course No'
+p3117
+S'SE315'
+p3118
+sS'Title'
+p3119
+S'SPECIAL AND GENERAL RELATIVITY'
+p3120
+ssS'SE314'
+p3121
+(dp3122
+S'Instructor(s)'
+p3123
+S'A DUTTA'
+p3124
+sS'Schedule'
+p3125
+S'LEC: MTW 10:00-11:00 L9;TUT: F 10:00-11:00 L9;'
+p3126
+sS'Course No'
+p3127
+S'SE314'
+p3128
+sS'Title'
+p3129
+S'CLASSICAL MECHANICS'
+p3130
+ssS'AE601'
+p3131
+(dp3132
+S'Instructor(s)'
+p3133
+S'T K SENGUPTA'
+p3134
+sS'Schedule'
+p3135
+S'LEC: MWF 11:00-12:00 AE04;'
+p3136
+sS'Course No'
+p3137
+S'AE601'
+p3138
+sS'Title'
+p3139
+S'INTRO TO AEROSPACE ENGG.'
+p3140
+ssS'MTH409'
+p3141
+(dp3142
+S'Instructor(s)'
+p3143
+S'A ANAND'
+p3144
+sS'Schedule'
+p3145
+S'LEC: MTW 14:00-15:00 L8;TUT: Th 14:00-15:00 L8;'
+p3146
+sS'Course No'
+p3147
+S'MTH409'
+p3148
+sS'Title'
+p3149
+S'COMPUTER PROGRAMMING AND DATA STRUCTURES'
+p3150
+ssS'CE371'
+p3151
+(dp3152
+S'Instructor(s)'
+p3153
+S'B LOHANI'
+p3154
+sS'Schedule'
+p3155
+S'LEC: MThF 11:00-12:00 REQ;TUT: T 11:00-12:00 REQ;'
+p3156
+sS'Course No'
+p3157
+S'CE371'
+p3158
+sS'Title'
+p3159
+S'GEOINFORMATICS'
+p3160
+ssS'AE602'
+p3161
+(dp3162
+S'Instructor(s)'
+p3163
+S'C S UPADHYAY'
+p3164
+sS'Schedule'
+p3165
+S'LEC: MWTh 08:00-09:00 AE04;'
+p3166
+sS'Course No'
+p3167
+S'AE602'
+p3168
+sS'Title'
+p3169
+S'MATHEMATICS FOR AEROSPACE ENGG.'
+p3170
+ssS'EE320'
+p3171
+(dp3172
+S'Instructor(s)'
+p3173
+S'A JAGANNATHAM'
+p3174
+sS'Schedule'
+p3175
+S'LEC: MWF 08:00-09:00 L4;TUT: Th 08:00-09:00 REQ;'
+p3176
+sS'Course No'
+p3177
+S'EE320'
+p3178
+sS'Title'
+p3179
+S'PRINCIPLES OF COMMUNICATIONS'
+p3180
+ssS'CHE621'
+p3181
+(dp3182
+S'Instructor(s)'
+p3183
+S'J K SINGH'
+p3184
+sS'Schedule'
+p3185
+S'LEC: T 08:00-09:30 FB470;Th 09:00-10:30 FB470;'
+p3186
+sS'Course No'
+p3187
+S'CHE621'
+p3188
+sS'Title'
+p3189
+S'THERMODYNAMICS'
+p3190
+ssS'PHY613'
+p3191
+(dp3192
+S'Instructor(s)'
+p3193
+S'V SUBRAHMANYAM'
+p3194
+sS'Schedule'
+p3195
+S'LEC: MTW 10:00-11:00 FB482;'
+p3196
+sS'Course No'
+p3197
+S'PHY613'
+p3198
+sS'Title'
+p3199
+S'ADVANCED STATISTICAL MECHANICS'
+p3200
+ssS'ECO402'
+p3201
+(dp3202
+S'Instructor(s)'
+p3203
+S'S SAHU'
+p3204
+sS'Schedule'
+p3205
+S'LEC: TWTh 12:00-13:00 WL228;TUT: T 14:00-15:00 WL228;'
+p3206
+sS'Course No'
+p3207
+S'ECO402'
+p3208
+sS'Title'
+p3209
+S'MACROECONOMICS II'
+p3210
+ssS'EE698'
+p3211
+(dp3212
+S'Instructor(s)'
+p3213
+S'S K MISHRA'
+p3214
+sS'Schedule'
+p3215
+S'LEC: MWF 14:00-15:00 ACES213;'
+p3216
+sS'Course No'
+p3217
+S'EE698'
+p3218
+sS'Title'
+p3219
+S'SPECIAL TOPICS IN POWER MANAGEMENT CIRCUITS'
+p3220
+ssS'EE699'
+p3221
+(dp3222
+S'Instructor(s)'
+p3223
+S'CONVENOR DPGC'
+p3224
+sS'Schedule'
+p3225
+S'LEC:'
+p3226
+sS'Course No'
+p3227
+S'EE699'
+p3228
+sS'Title'
+p3229
+S'M TECH THESIS'
+p3230
+ssS'CS685'
+p3231
+(dp3232
+S'Instructor(s)'
+p3233
+S'A BHATTACHARYA'
+p3234
+sS'Schedule'
+p3235
+S'LEC: TF 08:30-10:00 CS101;'
+p3236
+sS'Course No'
+p3237
+S'CS685'
+p3238
+sS'Title'
+p3239
+S'DATA MINING'
+p3240
+ssS'CHM632'
+p3241
+(dp3242
+S'Instructor(s)'
+p3243
+S'R GURUNATH'
+p3244
+sS'Schedule'
+p3245
+S'LEC: MTTh 09:00-10:00 FB434;'
+p3246
+sS'Course No'
+p3247
+S'CHM632'
+p3248
+sS'Title'
+p3249
+S'ENZYME REACTIONS MECHANISM AND ENZYME KINETICS'
+p3250
+ssS'BSE632'
+p3251
+(dp3252
+S'Instructor(s)'
+p3253
+S'R SANKARARAMAKRISHNAN, B PRAKASH'
+p3254
+sS'Schedule'
+p3255
+S'LEC: TTh 11:00-12:00 BSBE HALL;W 16:00-17:00 BSBE'
+p3256
+sS'Course No'
+p3257
+S'BSE632'
+p3258
+sS'Title'
+p3259
+S'STRUCTURAL BIOLOGY & BIOPHYSICS'
+p3260
+ssS'BSE630'
+p3261
+(dp3262
+S'Instructor(s)'
+p3263
+S'K SUBRAMANIAM, JONAKI SEN'
+p3264
+sS'Schedule'
+p3265
+S'LEC: MW 12:00-13:30 BSBE LAB;'
+p3266
+sS'Course No'
+p3267
+S'BSE630'
+p3268
+sS'Title'
+p3269
+S'DEVELOPMENTAL BIOLOGY I'
+p3270
+ssS'PSY786'
+p3271
+(dp3272
+S'Instructor(s)'
+p3273
+S'A K SINHA'
+p3274
+sS'Schedule'
+p3275
+S'LEC:'
+p3276
+sS'Course No'
+p3277
+S'PSY786'
+p3278
+sS'Title'
+p3279
+S'UNDERSTANDING ORGANIZATIONAL BEHAVIOUR'
+p3280
+ssS'BSE322'
+p3281
+(dp3282
+S'Instructor(s)'
+p3283
+S'R SANKARARAMAKRISHNAN, B PRAKASH'
+p3284
+sS'Schedule'
+p3285
+S'LEC: MW 12:00-13:30 BSBE HALL;'
+p3286
+sS'Course No'
+p3287
+S'BSE322'
+p3288
+sS'Title'
+p3289
+S'STRUCTURAL BIOLOGY & BIOINFORMATICS'
+p3290
+ssS'MSE685'
+p3291
+(dp3292
+S'Instructor(s)'
+p3293
+S'MONICA KATIYAR'
+p3294
+sS'Schedule'
+p3295
+S'LEC: MWF 09:00-10:00 WL225;'
+p3296
+sS'Course No'
+p3297
+S'MSE685'
+p3298
+sS'Title'
+p3299
+S'THIN FILM PHYSICS & APPLICATIONS'
+p3300
+ssS'PHI799'
+p3301
+(dp3302
+S'Instructor(s)'
+p3303
+S'CONVENOR DPGC'
+p3304
+sS'Schedule'
+p3305
+S'LEC:'
+p3306
+sS'Course No'
+p3307
+S'PHI799'
+p3308
+sS'Title'
+p3309
+S'PHD THESIS'
+p3310
+ssS'ME401'
+p3311
+(dp3312
+S'Instructor(s)'
+p3313
+S'S SARKAR'
+p3314
+sS'Schedule'
+p3315
+S'LEC: M 12:00-13:00 L6;W 14:00-15:00 L6;Th 11:00-12:00'
+p3316
+sS'Course No'
+p3317
+S'ME401'
+p3318
+sS'Title'
+p3319
+S'ENERGY SYSTEMS - II'
+p3320
+ssS'PHY681'
+p3321
+(dp3322
+S'Instructor(s)'
+p3323
+S'T SARKAR'
+p3324
+sS'Schedule'
+p3325
+S'LEC: TF 08:00-09:00 WL226;W 11:00-12:00 T208;'
+p3326
+sS'Course No'
+p3327
+S'PHY681'
+p3328
+sS'Title'
+p3329
+S'QUANTUM FIELD THEORY'
+p3330
+ssS'NT633'
+p3331
+(dp3332
+S'Instructor(s)'
+p3333
+S'M S KALRA'
+p3334
+sS'Schedule'
+p3335
+S'LEC: TThF 09:00-10:00 REQ;'
+p3336
+sS'Course No'
+p3337
+S'NT633'
+p3338
+sS'Title'
+p3339
+S'NUCLEAR FUSION'
+p3340
+ssS'MME686'
+p3341
+(dp3342
+S'Instructor(s)'
+p3343
+S'D GUPTA'
+p3344
+sS'Schedule'
+p3345
+S'LEC: MW 12:00-13:30 WL225;'
+p3346
+sS'Course No'
+p3347
+S'MME686'
+p3348
+sS'Title'
+p3349
+S'SEMI CONDUCTOR DEVICES AND PROCESSING'
+p3350
+ssS'CHE312'
+p3351
+(dp3352
+S'Instructor(s)'
+p3353
+S'N VERMA'
+p3354
+sS'Schedule'
+p3355
+S'LEC: MWF 12:00-13:00 L13;TUT: Th 12:00-13:00 L13;'
+p3356
+sS'Course No'
+p3357
+S'CHE312'
+p3358
+sS'Title'
+p3359
+S'HEAT AND MASS TRANSFER'
+p3360
+ssS'AE331'
+p3361
+(dp3362
+S'Instructor(s)'
+p3363
+S'RAJESH KITEY'
+p3364
+sS'Schedule'
+p3365
+S'LEC: W 11:00-12:00 L15;'
+p3366
+sS'Course No'
+p3367
+S'AE331'
+p3368
+sS'Title'
+p3369
+S'EXPERIMENTS IN STRUCTURES'
+p3370
+ssS'CHE251'
+p3371
+(dp3372
+S'Instructor(s)'
+p3373
+S'P K BHATTACHARYA'
+p3374
+sS'Schedule'
+p3375
+S'LEC: MTTh 10:00-11:00 L13;TUT: W 10:00-11:00 L13;'
+p3376
+sS'Course No'
+p3377
+S'CHE251'
+p3378
+sS'Title'
+p3379
+S'CHEMICAL PROCESS CALCULATION'
+p3380
+ssS'AE231'
+p3381
+(dp3382
+S'Instructor(s)'
+p3383
+S'S MAHESH'
+p3384
+sS'Schedule'
+p3385
+S'LEC: MF 12:00-13:00 L15;'
+p3386
+sS'Course No'
+p3387
+S'AE231'
+p3388
+sS'Title'
+p3389
+S'ELEMENTS OF VIBRATION'
+p3390
+ssS'CHM646'
+p3391
+(dp3392
+S'Instructor(s)'
+p3393
+S'S P RATH'
+p3394
+sS'Schedule'
+p3395
+S'LEC: MWF 12:00-13:00 FB426;'
+p3396
+sS'Course No'
+p3397
+S'CHM646'
+p3398
+sS'Title'
+p3399
+S'BIO-INORGANIC CHEMISTRY'
+p3400
+ssS'MTH401'
+p3401
+(dp3402
+S'Instructor(s)'
+p3403
+S'MOHUA BANERJEE'
+p3404
+sS'Schedule'
+p3405
+S'LEC: MTW 16:00-17:00 L8;TUT: F 16:00-17:00 L8;'
+p3406
+sS'Course No'
+p3407
+S'MTH401'
+p3408
+sS'Title'
+p3409
+S'THEORY OF COMPUTATION'
+p3410
+ssS'CHE674'
+p3411
+(dp3412
+S'Instructor(s)'
+p3413
+S'SRI SIVAKUMAR'
+p3414
+sS'Schedule'
+p3415
+S'LEC: WF 16:00-17:30 FB470;'
+p3416
+sS'Course No'
+p3417
+S'CHE674'
+p3418
+sS'Title'
+p3419
+S'INTRODUCTION TO NANOSCIENCE AND TECHNOLOGY'
+p3420
+ssS'MTH403'
+p3421
+(dp3422
+S'Instructor(s)'
+p3423
+S'G P KAPOOR'
+p3424
+sS'Schedule'
+p3425
+S'LEC: TWTh 08:00-09:00 WL221;TUT: F 08:00-09:00 WL221;'
+p3426
+sS'Course No'
+p3427
+S'MTH403'
+p3428
+sS'Title'
+p3429
+S'COMPLEX ANALYSIS'
+p3430
+ssS'MTH405'
+p3431
+(dp3432
+S'Instructor(s)'
+p3433
+S'S DUTTA'
+p3434
+sS'Schedule'
+p3435
+S'LEC: MTW 16:00-17:00 WL221;TUT: F 12:00-13:00 WL221;'
+p3436
+sS'Course No'
+p3437
+S'MTH405'
+p3438
+sS'Title'
+p3439
+S'FUNCTIONAL ANALYSIS'
+p3440
+ssS'CHM649'
+p3441
+(dp3442
+S'Instructor(s)'
+p3443
+S'S SARKAR'
+p3444
+sS'Schedule'
+p3445
+S'LEC: MWF 10:00-11:00 FB434;'
+p3446
+sS'Course No'
+p3447
+S'CHM649'
+p3448
+sS'Title'
+p3449
+S'PRINCIPALES OF INORGANIC CHEMISTRY'
+p3450
+ssS'MTH799'
+p3451
+(dp3452
+S'Instructor(s)'
+p3453
+S'CONVENOR DPGC'
+p3454
+sS'Schedule'
+p3455
+S'LEC:'
+p3456
+sS'Course No'
+p3457
+S'MTH799'
+p3458
+sS'Title'
+p3459
+S'RESEARCH'
+p3460
+ssS'MSE200'
+p3461
+(dp3462
+S'Instructor(s)'
+p3463
+S'R K DUBEY'
+p3464
+sS'Schedule'
+p3465
+S'LEC: MWF 09:00-10:00 L9;TUT: Th 09:00-10:00 T111-112;'
+p3466
+sS'Course No'
+p3467
+S'MSE200'
+p3468
+sS'Title'
+p3469
+S'THERMODYNAMICS OF MATERIALS'
+p3470
+ssS'MME330'
+p3471
+(dp3472
+S'Instructor(s)'
+p3473
+S'K BISWAS'
+p3474
+sS'Schedule'
+p3475
+S'LEC: MWF 12:00-13:00 L11;'
+p3476
+sS'Course No'
+p3477
+S'MME330'
+p3478
+sS'Title'
+p3479
+S'PHASE EQUILIBRIA IN MATERIALS'
+p3480
+ssS'PHY543'
+p3481
+(dp3482
+S'Instructor(s)'
+p3483
+S'T K GHOSH'
+p3484
+sS'Schedule'
+p3485
+S'LEC: MTW 12:00-13:00 L12;TUT: Th 12:00-13:00 L12;'
+p3486
+sS'Course No'
+p3487
+S'PHY543'
+p3488
+sS'Title'
+p3489
+S'CONDENSED MATTER PHYSICS I'
+p3490
+ssS'SOC750'
+p3491
+(dp3492
+S'Instructor(s)'
+p3493
+S'A CHAKRABARTI'
+p3494
+sS'Schedule'
+p3495
+S'LEC:'
+p3496
+sS'Course No'
+p3497
+S'SOC750'
+p3498
+sS'Title'
+p3499
+S'SOCIOLOGY OF RELIGION'
+p3500
+ssS'ENG749'
+p3501
+(dp3502
+S'Instructor(s)'
+p3503
+S'T RAVICHANDRAN'
+p3504
+sS'Schedule'
+p3505
+S'LEC:'
+p3506
+sS'Course No'
+p3507
+S'ENG749'
+p3508
+sS'Title'
+p3509
+S'POSTMODERN THEORY AND LITERATURE'
+p3510
+ssS'AE341'
+p3511
+(dp3512
+S'Instructor(s)'
+p3513
+S'A KUSHARI'
+p3514
+sS'Schedule'
+p3515
+S'LEC: MTW 09:00-10:00 AE04;TUT: Th 09:00-10:00 AE04;'
+p3516
+sS'Course No'
+p3517
+S'AE341'
+p3518
+sS'Title'
+p3519
+S'PROPULSION - I'
+p3520
+ssS'PHY462'
+p3521
+(dp3522
+S'Instructor(s)'
+p3523
+S'K P RAJEEV'
+p3524
+sS'Schedule'
+p3525
+S'LEC:'
+p3526
+sS'Course No'
+p3527
+S'PHY462'
+p3528
+sS'Title'
+p3529
+S'EXPERIMENTAL PHYSICS II'
+p3530
+ssS'PHY461'
+p3531
+(dp3532
+S'Instructor(s)'
+p3533
+S'K P RAJEEV'
+p3534
+sS'Schedule'
+p3535
+S'LEC:'
+p3536
+sS'Course No'
+p3537
+S'PHY461'
+p3538
+sS'Title'
+p3539
+S'EXPERIMENTAL PHYSICS I'
+p3540
+ssS'MBA616'
+p3541
+(dp3542
+S'Instructor(s)'
+p3543
+S'A P SINHA'
+p3544
+sS'Schedule'
+p3545
+S'LEC: M 10:00-11:30 NB320;W 11:30-13:00 NB320;'
+p3546
+sS'Course No'
+p3547
+S'MBA616'
+p3548
+sS'Title'
+p3549
+S'HUMAN RESOURCE MANAGEMENT'
+p3550
+ssS'PHY315'
+p3551
+(dp3552
+S'Instructor(s)'
+p3553
+S'Z HOSSAIN'
+p3554
+sS'Schedule'
+p3555
+S'LEC: Th 10:00-11:00 L12;'
+p3556
+sS'Course No'
+p3557
+S'PHY315'
+p3558
+sS'Title'
+p3559
+S'MODERN PHYSICS LABORATORY'
+p3560
+ssS'IME697'
+p3561
+(dp3562
+S'Instructor(s)'
+p3563
+S'CONVNER DPGC'
+p3564
+sS'Schedule'
+p3565
+S'LEC:'
+p3566
+sS'Course No'
+p3567
+S'IME697'
+p3568
+sS'Title'
+p3569
+S'INDUSTRIAL PROJECT'
+p3570
+ssS'IME698'
+p3571
+(dp3572
+S'Instructor(s)'
+p3573
+S'CONVENER DPGC'
+p3574
+sS'Schedule'
+p3575
+S'LEC:'
+p3576
+sS'Course No'
+p3577
+S'IME698'
+p3578
+sS'Title'
+p3579
+S'SEMINAR'
+p3580
+ssS'IME699'
+p3581
+(dp3582
+S'Instructor(s)'
+p3583
+S'CONVENOR DPGC'
+p3584
+sS'Schedule'
+p3585
+S'LEC:'
+p3586
+sS'Course No'
+p3587
+S'IME699'
+p3588
+sS'Title'
+p3589
+S'M TECH THESIS'
+p3590
+ssS'EE641'
+p3591
+(dp3592
+S'Instructor(s)'
+p3593
+S'K V SRIVASTAVA'
+p3594
+sS'Schedule'
+p3595
+S'LEC: T 08:00-09:00 ACES213;W 12:00-13:00 ACES213;Th'
+p3596
+sS'Course No'
+p3597
+S'EE641'
+p3598
+sS'Title'
+p3599
+S'ADVANCED ENGINEERING ELECTROMAGNETICS'
+p3600
+ssS'EE645'
+p3601
+(dp3602
+S'Instructor(s)'
+p3603
+S'A BISWAS'
+p3604
+sS'Schedule'
+p3605
+S'LEC: MTF 10:00-11:00 ACES213;'
+p3606
+sS'Course No'
+p3607
+S'EE645'
+p3608
+sS'Title'
+p3609
+S'MONOLITHIC MICROWAVE ICS'
+p3610
+ssS'EE644'
+p3611
+(dp3612
+S'Instructor(s)'
+p3613
+S'K PRADEEP KUMAR'
+p3614
+sS'Schedule'
+p3615
+S'LEC: T 12:00-13:00 REQ;WTh 10:00-11:00 REQ;'
+p3616
+sS'Course No'
+p3617
+S'EE644'
+p3618
+sS'Title'
+p3619
+S'OPTICAL COMMUNICATION'
+p3620
+ssS'EE647'
+p3621
+(dp3622
+S'Instructor(s)'
+p3623
+S'M J AKHTAR'
+p3624
+sS'Schedule'
+p3625
+S'LEC: T 14:00-15:00 ACES213;F 08:00-09:00 ACES213;'
+p3626
+sS'Course No'
+p3627
+S'EE647'
+p3628
+sS'Title'
+p3629
+S'MICROWAVE MEASUREMENTS AND DESIGN'
+p3630
+ssS'ME300'
+p3631
+(dp3632
+S'Instructor(s)'
+p3633
+S'CONVENER DUGC'
+p3634
+sS'Schedule'
+p3635
+S'LEC:'
+p3636
+sS'Course No'
+p3637
+S'ME300'
+p3638
+sS'Title'
+p3639
+S'SUMMER INDUSTRIAL TRAINING'
+p3640
+ssS'MSE667'
+p3641
+(dp3642
+S'Instructor(s)'
+p3643
+S'A UPADHYAYA'
+p3644
+sS'Schedule'
+p3645
+S'LEC: TTh 14:00-15:30 L11;'
+p3646
+sS'Course No'
+p3647
+S'MSE667'
+p3648
+sS'Title'
+p3649
+S'SELECTION AND DESIGNING WITH ENGINEERING MATERIALS'
+p3650
+ssS'MSE663'
+p3651
+(dp3652
+S'Instructor(s)'
+p3653
+S'T MAITI'
+p3654
+sS'Schedule'
+p3655
+S'LEC: MTh 15:30-17:00 L11;'
+p3656
+sS'Course No'
+p3657
+S'MSE663'
+p3658
+sS'Title'
+p3659
+S'ELECTRICAL AND MAGNETIC PROPERTIES OF CERAMIC'
+p3660
+ssS'MME415'
+p3661
+(dp3662
+S'Instructor(s)'
+p3663
+S'A SUBRAMANIAM'
+p3664
+sS'Schedule'
+p3665
+S'LEC:'
+p3666
+sS'Course No'
+p3667
+S'MME415'
+p3668
+sS'Title'
+p3669
+S'PHYSICAL METALLURGY LAB'
+p3670
+ssS'MME410'
+p3671
+(dp3672
+S'Instructor(s)'
+p3673
+S'S INGOLE'
+p3674
+sS'Schedule'
+p3675
+S'LEC: T 12:00-13:00 L11;WF 16:00-17:00 L11;'
+p3676
+sS'Course No'
+p3677
+S'MME410'
+p3678
+sS'Title'
+p3679
+S'ELECTRONIC & MAGNETIC PROPERTIES OF MATERIALS'
+p3680
+ssS'CE331'
+p3681
+(dp3682
+S'Instructor(s)'
+p3683
+S'P K BASUDHAR'
+p3684
+sS'Schedule'
+p3685
+S'LEC: MWF 08:00-09:00 L3;TUT: TTh 08:00-09:00 L3;'
+p3686
+sS'Course No'
+p3687
+S'CE331'
+p3688
+sS'Title'
+p3689
+S'SOIL MECHANICS'
+p3690
+ssS'CE671N'
+p3691
+(dp3692
+S'Instructor(s)'
+p3693
+S'B LOHANI'
+p3694
+sS'Schedule'
+p3695
+S'LEC: MT 15:30-17:00 GI LAB;'
+p3696
+sS'Course No'
+p3697
+S'CE671N'
+p3698
+sS'Title'
+p3699
+S'INTRODUCTION TO REMOTE SENSING'
+p3700
+ssS'PHI768'
+p3701
+(dp3702
+S'Instructor(s)'
+p3703
+S'A V R SHARMA'
+p3704
+sS'Schedule'
+p3705
+S'LEC:'
+p3706
+sS'Course No'
+p3707
+S'PHI768'
+p3708
+sS'Title'
+p3709
+S'MODAL LOGIC'
+p3710
+ssS'CS425'
+p3711
+(dp3712
+S'Instructor(s)'
+p3713
+S'R K GHOSH'
+p3714
+sS'Schedule'
+p3715
+S'LEC: MWF 16:00-17:00 CS102;'
+p3716
+sS'Course No'
+p3717
+S'CS425'
+p3718
+sS'Title'
+p3719
+S'COMPUTER NETWORKS'
+p3720
+ssS'CHE701'
+p3721
+(dp3722
+S'Instructor(s)'
+p3723
+S'A KHANNA'
+p3724
+sS'Schedule'
+p3725
+S'LEC: T 14:00-15:00 L1;'
+p3726
+sS'Course No'
+p3727
+S'CHE701'
+p3728
+sS'Title'
+p3729
+S'M. TECH. SEMINAR'
+p3730
+ssS'CE642'
+p3731
+(dp3732
+S'Instructor(s)'
+p3733
+S'D PAUL'
+p3734
+sS'Schedule'
+p3735
+S'LEC: MTh 10:00-11:00 T212;T 16:00-17:00 T212;'
+p3736
+sS'Course No'
+p3737
+S'CE642'
+p3738
+sS'Title'
+p3739
+S'GEOLOGICAL HAZARDS'
+p3740
+ssS'LT601'
+p3741
+(dp3742
+S'Instructor(s)'
+p3743
+S'H WANARE'
+p3744
+sS'Schedule'
+p3745
+S'LEC: MTW 12:00-13:00 SL215;'
+p3746
+sS'Course No'
+p3747
+S'LT601'
+p3748
+sS'Title'
+p3749
+S'INTRODUCTION TO LASERS'
+p3750
+ssS'CE640'
+p3751
+(dp3752
+S'Instructor(s)'
+p3753
+S'RAJEEV SINHA'
+p3754
+sS'Schedule'
+p3755
+S'LEC: MW 11:00-12:30 REQ;'
+p3756
+sS'Course No'
+p3757
+S'CE640'
+p3758
+sS'Title'
+p3759
+S'EARTH SYSTEM PROCESSES'
+p3760
+ssS'SOC171'
+p3761
+(dp3762
+S'Instructor(s)'
+p3763
+S'ANINDITA CHAKRABARTI'
+p3764
+sS'Schedule'
+p3765
+S'LEC: TThF 12:00-13:00 L4;TUT: W 12:00-13:00 L4;'
+p3766
+sS'Course No'
+p3767
+S'SOC171'
+p3768
+sS'Title'
+p3769
+S'INTRODUCTORY SOCIOLOGY'
+p3770
+ssS'CE646'
+p3771
+(dp3772
+S'Instructor(s)'
+p3773
+S'COURSE DROPPED'
+p3774
+sS'Schedule'
+p3775
+S'LEC:'
+p3776
+sS'Course No'
+p3777
+S'CE646'
+p3778
+sS'Title'
+p3779
+S'GLOBAL CLIMATE CHANGE'
+p3780
+ssS'EE698A'
+p3781
+(dp3782
+S'Instructor(s)'
+p3783
+S'L BEHERA'
+p3784
+sS'Schedule'
+p3785
+S'LEC: TTh 12:00-13:30 ACES213;'
+p3786
+sS'Course No'
+p3787
+S'EE698A'
+p3788
+sS'Title'
+p3789
+S'INTELLIGENT SYSTEMS AND CONTROL'
+p3790
+ssS'CE649'
+p3791
+(dp3792
+S'Instructor(s)'
+p3793
+S'D PAUL'
+p3794
+sS'Schedule'
+p3795
+S'LEC: TF 14:00-15:30 REQ;'
+p3796
+sS'Course No'
+p3797
+S'CE649'
+p3798
+sS'Title'
+p3799
+S'ISOTOPE GEOCHEMISTRY AND APPLICATIONS'
+p3800
+ssS'MTH621'
+p3801
+(dp3802
+S'Instructor(s)'
+p3803
+S'S MADAN'
+p3804
+sS'Schedule'
+p3805
+S'LEC: WF 12:00-13:30 T201;'
+p3806
+sS'Course No'
+p3807
+S'MTH621'
+p3808
+sS'Title'
+p3809
+S'FOURIER ANALYSIS'
+p3810
+ssS'MTH620'
+p3811
+(dp3812
+S'Instructor(s)'
+p3813
+S'S K RAY'
+p3814
+sS'Schedule'
+p3815
+S'LEC: WThF 15:00-16:00 WL221;'
+p3816
+sS'Course No'
+p3817
+S'MTH620'
+p3818
+sS'Title'
+p3819
+S'MEASURE THEORY'
+p3820
+ssS'CHM301'
+p3821
+(dp3822
+S'Instructor(s)'
+p3823
+S'S VERMA'
+p3824
+sS'Schedule'
+p3825
+S'LEC: MTTh 10:00-11:00 T206;TUT: W 10:00-11:00 T206;'
+p3826
+sS'Course No'
+p3827
+S'CHM301'
+p3828
+sS'Title'
+p3829
+S'BASIC ORGANIC CHEMISTRY-I'
+p3830
+ssS'BSE671'
+p3831
+(dp3832
+S'Instructor(s)'
+p3833
+S'CONVENER DPGC'
+p3834
+sS'Schedule'
+p3835
+S'LEC:'
+p3836
+sS'Course No'
+p3837
+S'BSE671'
+p3838
+sS'Title'
+p3839
+S'RESEARCH METHODS IN BIOLOGICAL SCIENCES'
+p3840
+ssS'CHE681'
+p3841
+(dp3842
+S'Instructor(s)'
+p3843
+S'N KAISTHA'
+p3844
+sS'Schedule'
+p3845
+S'LEC: MTF 10:00-11:00 T211;'
+p3846
+sS'Course No'
+p3847
+S'CHE681'
+p3848
+sS'Title'
+p3849
+S'ADVANCED PROCESS DYNAMICS & CONTROL'
+p3850
+ssS'CHE684'
+p3851
+(dp3852
+S'Instructor(s)'
+p3853
+S'R SINGH'
+p3854
+sS'Schedule'
+p3855
+S'LEC: TTh 16:00-17:30 FB470;'
+p3856
+sS'Course No'
+p3857
+S'CHE684'
+p3858
+sS'Title'
+p3859
+S'AN INTRODUCTION TO SYSTEMS BIOLOGY'
+p3860
+ssS'MTH644'
+p3861
+(dp3862
+S'Instructor(s)'
+p3863
+S'S CHAVAN'
+p3864
+sS'Schedule'
+p3865
+S'LEC: MTW 14:00-15:00 T201;'
+p3866
+sS'Course No'
+p3867
+S'MTH644'
+p3868
+sS'Title'
+p3869
+S'COMPLEX FUNCTION THEORY'
+p3870
+ssS'SE341'
+p3871
+(dp3872
+S'Instructor(s)'
+p3873
+S'S P RATH'
+p3874
+sS'Schedule'
+p3875
+S'LEC: MWF 12:00-13:00 FB426;'
+p3876
+sS'Course No'
+p3877
+S'SE341'
+p3878
+sS'Title'
+p3879
+S'BIO-INORGANIC CHEMISTRY'
+p3880
+ssS'ME361'
+p3881
+(dp3882
+S'Instructor(s)'
+p3883
+S'S BHATTACHARYA, J RAMKUMAR'
+p3884
+sS'Schedule'
+p3885
+S'LEC: MThF 16:00-17:00 L9;'
+p3886
+sS'Course No'
+p3887
+S'ME361'
+p3888
+sS'Title'
+p3889
+S'MANUFACTURING TECHNOLOGY'
+p3890
+ssS'PHY647'
+p3891
+(dp3892
+S'Instructor(s)'
+p3893
+S'KRISHNACHARYA'
+p3894
+sS'Schedule'
+p3895
+S'LEC: MT 11:00-12:00 FB482;TUT: Th 11:00-12:00 FB482;'
+p3896
+sS'Course No'
+p3897
+S'PHY647'
+p3898
+sS'Title'
+p3899
+S'ELECTRONICS'
+p3900
+ssS'EEM603'
+p3901
+(dp3902
+S'Instructor(s)'
+p3903
+S'VINOD TARE'
+p3904
+sS'Schedule'
+p3905
+S'LEC: MWF 10:00-11:00 T205;'
+p3906
+sS'Course No'
+p3907
+S'EEM603'
+p3908
+sS'Title'
+p3909
+S'ECOLOGICAL AND BIOLOGICAL PRINCIPLES AND PROCESS'
+p3910
+ssS'EEM602'
+p3911
+(dp3912
+S'Instructor(s)'
+p3913
+S'ANUBHA GOEL'
+p3914
+sS'Schedule'
+p3915
+S'LEC: MWTh 14:00-15:00 T212;'
+p3916
+sS'Course No'
+p3917
+S'EEM602'
+p3918
+sS'Title'
+p3919
+S'PHYSICOCHEMICAL PRINCIPLES AND PROCESS'
+p3920
+ssS'CE611N'
+p3921
+(dp3922
+S'Instructor(s)'
+p3923
+S'RAJESH SRIVASTAVA'
+p3924
+sS'Schedule'
+p3925
+S'LEC: MF 12:00-13:00 T212;W 12:00-13:00 L10;'
+p3926
+sS'Course No'
+p3927
+S'CE611N'
+p3928
+sS'Title'
+p3929
+S'ENGINEERING HYDRAULICS'
+p3930
+ssS'EEM606'
+p3931
+(dp3932
+S'Instructor(s)'
+p3933
+S'TARUN GUPTA'
+p3934
+sS'Schedule'
+p3935
+S'LEC: TF 14:00-15:30 T212;'
+p3936
+sS'Course No'
+p3937
+S'EEM606'
+p3938
+sS'Title'
+p3939
+S'AIR POLLUTION AND ITS CONTROL'
+p3940
+ssS'ECO434'
+p3941
+(dp3942
+S'Instructor(s)'
+p3943
+S'SOMESH K MATHUR'
+p3944
+sS'Schedule'
+p3945
+S'LEC: MWF 11:00-12:00 L9;TUT: T 11:00-12:00 L9;'
+p3946
+sS'Course No'
+p3947
+S'ECO434'
+p3948
+sS'Title'
+p3949
+S'INTERNATIONAL ECONOMICS'
+p3950
+ssS'MTH203N'
+p3951
+(dp3952
+S'Instructor(s)'
+p3953
+S'S GHORAI, T MUTHUKUMAR'
+p3954
+sS'Schedule'
+p3955
+S'LEC: MWTh 08:00-09:00 L16;T 08:00-09:00 T201-208;F'
+p3956
+sS'Course No'
+p3957
+S'MTH203N'
+p3958
+sS'Title'
+p3959
+S'MATHEMATICS - III'
+p3960
+ssS'AE652'
+p3961
+(dp3962
+S'Instructor(s)'
+p3963
+S'A KUSHARI'
+p3964
+sS'Schedule'
+p3965
+S'LEC: TTh 11:00-12:00 AE04;F 10:00-11:00 AE04;'
+p3966
+sS'Course No'
+p3967
+S'AE652'
+p3968
+sS'Title'
+p3969
+S'AIRCRAFT PROPULSION II'
+p3970
+ssS'AE799'
+p3971
+(dp3972
+S'Instructor(s)'
+p3973
+S'CONVENOR DPGC'
+p3974
+sS'Schedule'
+p3975
+S'LEC:'
+p3976
+sS'Course No'
+p3977
+S'AE799'
+p3978
+sS'Title'
+p3979
+S'PHD THESIS'
+p3980
+ssS'ECO311'
+p3981
+(dp3982
+S'Instructor(s)'
+p3983
+S'S K MATHUR'
+p3984
+sS'Schedule'
+p3985
+S'LEC: MW 14:00-15:00 FB656;F 14:00-15:30 FB656;'
+p3986
+sS'Course No'
+p3987
+S'ECO311'
+p3988
+sS'Title'
+p3989
+S'ECONOMETRIC METHODS'
+p3990
+ssS'AE461'
+p3991
+(dp3992
+S'Instructor(s)'
+p3993
+S'A TEWARI'
+p3994
+sS'Schedule'
+p3995
+S'LEC: MW 14:00-15:00 AE01;'
+p3996
+sS'Course No'
+p3997
+S'AE461'
+p3998
+sS'Title'
+p3999
+S'AIRCRAFT DESIGN-I'
+p4000
+ssS'BSE352'
+p4001
+(dp4002
+S'Instructor(s)'
+p4003
+S'D S KATTI'
+p4004
+sS'Schedule'
+p4005
+S'LEC: MW 09:00-10:00 BSBE HALL;Th 12:00-13:00 BSBE'
+p4006
+sS'Course No'
+p4007
+S'BSE352'
+p4008
+sS'Title'
+p4009
+S'BIOMATERIALS'
+p4010
+ssS'CHM609'
+p4011
+(dp4012
+S'Instructor(s)'
+p4013
+S'Y D VANKAR'
+p4014
+sS'Schedule'
+p4015
+S'LEC: MW 11:00-12:00 FB426;Th 10:00-11:00 FB426;'
+p4016
+sS'Course No'
+p4017
+S'CHM609'
+p4018
+sS'Title'
+p4019
+S'PRINCIPALES OF ORGANIC CHEMISTRY'
+p4020
+ssS'MTH692'
+p4021
+(dp4022
+S'Instructor(s)'
+p4023
+S'M K KADALBAJOO'
+p4024
+sS'Schedule'
+p4025
+S'LEC: TWF 11:00-12:00 WL221;'
+p4026
+sS'Course No'
+p4027
+S'MTH692'
+p4028
+sS'Title'
+p4029
+S'NUMERICAL SOLUTION OF ORDINARY DIFFERENTIAL EQUATIONS'
+p4030
+ssS'MTH754'
+p4031
+(dp4032
+S'Instructor(s)'
+p4033
+S'NEERAJ MISRA'
+p4034
+sS'Schedule'
+p4035
+S'LEC: MTW 10:00-11:00 T202;'
+p4036
+sS'Course No'
+p4037
+S'MTH754'
+p4038
+sS'Title'
+p4039
+S'PROBABILITY THEORY'
+p4040
+ssS'BSE212'
+p4041
+(dp4042
+S'Instructor(s)'
+p4043
+S'A BANDYOPADHYAY'
+p4044
+sS'Schedule'
+p4045
+S'LEC: MWTh 10:00-11:00 BSBE HALL;'
+p4046
+sS'Course No'
+p4047
+S'BSE212'
+p4048
+sS'Title'
+p4049
+S'MOLECULAR BIOLOGY'
+p4050
+ssS'MTH753'
+p4051
+(dp4052
+S'Instructor(s)'
+p4053
+S'S DUTTA'
+p4054
+sS'Schedule'
+p4055
+S'LEC: MT 12:00-13:30 T201;'
+p4056
+sS'Course No'
+p4057
+S'MTH753'
+p4058
+sS'Title'
+p4059
+S'ANALYSIS'
+p4060
+ssS'ME757'
+p4061
+(dp4062
+S'Instructor(s)'
+p4063
+S'N S VYAS'
+p4064
+sS'Schedule'
+p4065
+S'LEC: M 08:00-09:00 T210;TTh 09:00-10:00 T210;'
+p4066
+sS'Course No'
+p4067
+S'ME757'
+p4068
+sS'Title'
+p4069
+S'DYNAMICS OF ROTATING MACHINERY'
+p4070
+ssS'CHE452'
+p4071
+(dp4072
+S'Instructor(s)'
+p4073
+S'RAJ PALA'
+p4074
+sS'Schedule'
+p4075
+S'LEC: MWF 14:00-15:00 L13;TUT: W 15:00-16:00 L13;'
+p4076
+sS'Course No'
+p4077
+S'CHE452'
+p4078
+sS'Title'
+p4079
+S'COMPUTER APPLICATIONS IN CHEMICAL ENGG.'
+p4080
+ssS'PHY421'
+p4081
+(dp4082
+S'Instructor(s)'
+p4083
+S'T SARKAR'
+p4084
+sS'Schedule'
+p4085
+S'LEC: MWF 12:00-13:00 WL226;TUT: Th 12:00-13:00 WL226;'
+p4086
+sS'Course No'
+p4087
+S'PHY421'
+p4088
+sS'Title'
+p4089
+S'MATHEMATICAL METHODS I'
+p4090
+ssS'CHM800'
+p4091
+(dp4092
+S'Instructor(s)'
+p4093
+S'CONVENER DPGC'
+p4094
+sS'Schedule'
+p4095
+S'LEC:'
+p4096
+sS'Course No'
+p4097
+S'CHM800'
+p4098
+sS'Title'
+p4099
+S'GENERAL SEMINAR'
+p4100
+ssS'CHM801'
+p4101
+(dp4102
+S'Instructor(s)'
+p4103
+S'CONVENER DPGC'
+p4104
+sS'Schedule'
+p4105
+S'LEC:'
+p4106
+sS'Course No'
+p4107
+S'CHM801'
+p4108
+sS'Title'
+p4109
+S'GRADUATE SEMINAR'
+p4110
+ssS'ME751'
+p4111
+(dp4112
+S'Instructor(s)'
+p4113
+S'A SAXENA'
+p4114
+sS'Schedule'
+p4115
+S'LEC: TF 10:00-11:00 FB370;W 08:00-09:00 FB370;'
+p4116
+sS'Course No'
+p4117
+S'ME751'
+p4118
+sS'Title'
+p4119
+S'COMPUTER AIDED ENGINEERING DESIGN'
+p4120
+ssS'ME699'
+p4121
+(dp4122
+S'Instructor(s)'
+p4123
+S'CONVENOR DPGC'
+p4124
+sS'Schedule'
+p4125
+S'LEC:'
+p4126
+sS'Course No'
+p4127
+S'ME699'
+p4128
+sS'Title'
+p4129
+S'M TECH THESIS'
+p4130
+ssS'ME690'
+p4131
+(dp4132
+S'Instructor(s)'
+p4133
+S'A K AGARWAL'
+p4134
+sS'Schedule'
+p4135
+S'LEC: M 10:00-11:00 T210;WF 11:00-12:00 FB370;'
+p4136
+sS'Course No'
+p4137
+S'ME690'
+p4138
+sS'Title'
+p4139
+S'ALTERNATIVE FUELS & ADVANCE IN IC ENGINES'
+p4140
+ssS'PSY468'
+p4141
+(dp4142
+S'Instructor(s)'
+p4143
+S'S DIXIT'
+p4144
+sS'Schedule'
+p4145
+S'LEC: MWF 11:00-12:00 WL222;TUT: T 11:00-12:00 WL222;'
+p4146
+sS'Course No'
+p4147
+S'PSY468'
+p4148
+sS'Title'
+p4149
+S'SOCIAL COGNITION'
+p4150
+ssS'PHI141'
+p4151
+(dp4152
+S'Instructor(s)'
+p4153
+S'VINEET SAHU'
+p4154
+sS'Schedule'
+p4155
+S'LEC: TThF 12:00-13:00 L9;TUT: W 12:00-13:00 L9;'
+p4156
+sS'Course No'
+p4157
+S'PHI141'
+p4158
+sS'Title'
+p4159
+S'INTRODUCTION TO PHILOSOPHY'
+p4160
+ssS'PHI142'
+p4161
+(dp4162
+S'Instructor(s)'
+p4163
+S'NIRMALYA GUHA'
+p4164
+sS'Schedule'
+p4165
+S'LEC: TThF 12:00-13:00 L6;TUT: W 12:00-13:00 L6;'
+p4166
+sS'Course No'
+p4167
+S'PHI142'
+p4168
+sS'Title'
+p4169
+S'INTRODUCTION TO LOGIC'
+p4170
+ssS'AE471'
+p4171
+(dp4172
+S'Instructor(s)'
+p4173
+S'CONVENER DUGC'
+p4174
+sS'Schedule'
+p4175
+S'LEC:'
+p4176
+sS'Course No'
+p4177
+S'AE471'
+p4178
+sS'Title'
+p4179
+S'PROJECT-I'
+p4180
+ssS'ME451'
+p4181
+(dp4182
+S'Instructor(s)'
+p4183
+S'S KHANDEKAR'
+p4184
+sS'Schedule'
+p4185
+S'LEC:'
+p4186
+sS'Course No'
+p4187
+S'ME451'
+p4188
+sS'Title'
+p4189
+S'PROJECT - I'
+p4190
+ssS'ME453'
+p4191
+(dp4192
+S'Instructor(s)'
+p4193
+S'B BHATTACHRYA'
+p4194
+sS'Schedule'
+p4195
+S'LEC: TWF 12:00-13:00 REQ;'
+p4196
+sS'Course No'
+p4197
+S'ME453'
+p4198
+sS'Title'
+p4199
+S'AUTOMATION AND CONTROL'
+p4200
+ssS'BSE699'
+p4201
+(dp4202
+S'Instructor(s)'
+p4203
+S'CONVENOR DPGC'
+p4204
+sS'Schedule'
+p4205
+S'LEC:'
+p4206
+sS'Course No'
+p4207
+S'BSE699'
+p4208
+sS'Title'
+p4209
+S'M.TECH THESIS'
+p4210
+ssS'CHM693'
+p4211
+(dp4212
+S'Instructor(s)'
+p4213
+S'S S MANOHARAN'
+p4214
+sS'Schedule'
+p4215
+S'LEC: MW 11:00-12:00 FB434;Th 10:00-11:00 FB434;'
+p4216
+sS'Course No'
+p4217
+S'CHM693'
+p4218
+sS'Title'
+p4219
+S'CHEMICAL APPROACHES TO THE SYNTHESIS OF ADVANCED'
+p4220
+ssS'ME623'
+p4221
+(dp4222
+S'Instructor(s)'
+p4223
+S'P VENKITANARAYANAN'
+p4224
+sS'Schedule'
+p4225
+S'LEC: M 08:00-09:00 L9;TTh 09:00-10:00 L9;'
+p4226
+sS'Course No'
+p4227
+S'ME623'
+p4228
+sS'Title'
+p4229
+S'FINITE ELEMENT METHODS IN ENGINEERING MECHANICS'
+p4230
+ssS'ME621'
+p4231
+(dp4232
+S'Instructor(s)'
+p4233
+S'I SHARMA'
+p4234
+sS'Schedule'
+p4235
+S'LEC: MTTh 14:00-15:00 L6;'
+p4236
+sS'Course No'
+p4237
+S'ME621'
+p4238
+sS'Title'
+p4239
+S'INTRODUCTION TO SOLID MECHANICS'
+p4240
+ssS'MBA663'
+p4241
+(dp4242
+S'Instructor(s)'
+p4243
+S'D PHILIP'
+p4244
+sS'Schedule'
+p4245
+S'LEC: M 14:00-15:30 NB332;W 11:30-13:00 NB332;'
+p4246
+sS'Course No'
+p4247
+S'MBA663'
+p4248
+sS'Title'
+p4249
+S'TOTAL QUALITY MANAGEMENT'
+p4250
+ssS'MBA664'
+p4251
+(dp4252
+S'Instructor(s)'
+p4253
+S'P MEHTA'
+p4254
+sS'Schedule'
+p4255
+S'LEC: TTh 11:30-13:00 NB332;'
+p4256
+sS'Course No'
+p4257
+S'MBA664'
+p4258
+sS'Title'
+p4259
+S'SUPPLY CHAIN MANAGEMENT'
+p4260
+ssS'ENG735'
+p4261
+(dp4262
+S'Instructor(s)'
+p4263
+S'S MATHUR'
+p4264
+sS'Schedule'
+p4265
+S'LEC:'
+p4266
+sS'Course No'
+p4267
+S'ENG735'
+p4268
+sS'Title'
+p4269
+S'COMMONWEALTH LITERATURE'
+p4270
+ssS'ME625'
+p4271
+(dp4272
+S'Instructor(s)'
+p4273
+S'S S GUPTA'
+p4274
+sS'Schedule'
+p4275
+S'LEC: MTTh 15:00-16:00 L6;'
+p4276
+sS'Course No'
+p4277
+S'ME625'
+p4278
+sS'Title'
+p4279
+S'APPLIED DYNAMICS AND VIBRATIONS'
+p4280
+ssS'ENG122'
+p4281
+(dp4282
+S'Instructor(s)'
+p4283
+S'CHAITHRA PUTTASWAMY'
+p4284
+sS'Schedule'
+p4285
+S'LEC: TThF 12:00-13:00 L10;TUT: W 12:00-13:00 L10;'
+p4286
+sS'Course No'
+p4287
+S'ENG122'
+p4288
+sS'Title'
+p4289
+S'INTRODUCTION TO LINGUISTICS'
+p4290
+ssS'CE602'
+p4291
+(dp4292
+S'Instructor(s)'
+p4293
+S'S N TRIPATHI, ANUBHA GOEL/ MUKESH SHARMA'
+p4294
+sS'Schedule'
+p4295
+S'LEC: MW 08:00-09:00 REQ;F 08:00-09:00 L10;'
+p4296
+sS'Course No'
+p4297
+S'CE602'
+p4298
+sS'Title'
+p4299
+S'ADVANCED MATHEMATICS FOR CIVIL ENGINEERS'
+p4300
+ssS'CE601'
+p4301
+(dp4302
+S'Instructor(s)'
+p4303
+S'P CHAKRABORTY'
+p4304
+sS'Schedule'
+p4305
+S'LEC: MWF 17:00-18:00 L10;'
+p4306
+sS'Course No'
+p4307
+S'CE601'
+p4308
+sS'Title'
+p4309
+S'STATISTICAL ANALYSIS FOR CIVIL ENGINEERS'
+p4310
+ssS'EE616'
+p4311
+(dp4312
+S'Instructor(s)'
+p4313
+S'ALOKE DUTTA'
+p4314
+sS'Schedule'
+p4315
+S'LEC: MWF 10:00-11:00 REQ;'
+p4316
+sS'Course No'
+p4317
+S'EE616'
+p4318
+sS'Title'
+p4319
+S'SEMICONDUCTOR DEVICE MODELLING'
+p4320
+ssS'EE614'
+p4321
+(dp4322
+S'Instructor(s)'
+p4323
+S'B GHOSH'
+p4324
+sS'Schedule'
+p4325
+S'LEC: T 17:00-18:00 L8;F 16:00-18:00 L8;'
+p4326
+sS'Course No'
+p4327
+S'EE614'
+p4328
+sS'Title'
+p4329
+S'SOLID STATE DEVICES I'
+p4330
+ssS'EE612'
+p4331
+(dp4332
+S'Instructor(s)'
+p4333
+S'UTPAL DAS'
+p4334
+sS'Schedule'
+p4335
+S'LEC: TTh 15:30-17:00 ACES213;'
+p4336
+sS'Course No'
+p4337
+S'EE612'
+p4338
+sS'Title'
+p4339
+S'FIBER OPTIC SYSTEMS I'
+p4340
+ssS'EE610'
+p4341
+(dp4342
+S'Instructor(s)'
+p4343
+S'B MAZHARI'
+p4344
+sS'Schedule'
+p4345
+S'LEC: MWF 09:00-10:00 REQ;'
+p4346
+sS'Course No'
+p4347
+S'EE610'
+p4348
+sS'Title'
+p4349
+S'ANALOG/DIGITAL VLSI CIRCUITS'
+p4350
+ssS'CE621N'
+p4351
+(dp4352
+S'Instructor(s)'
+p4353
+S'S K MISHRA'
+p4354
+sS'Schedule'
+p4355
+S'LEC: MWF 09:00-10:00 REQ;'
+p4356
+sS'Course No'
+p4357
+S'CE621N'
+p4358
+sS'Title'
+p4359
+S'ENGINEERING MECHANICS'
+p4360
+ss.
